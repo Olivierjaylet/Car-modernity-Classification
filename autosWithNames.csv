@@ -1,0 +1,3340 @@
+brand,model_name,model_id,model_year,bodytype
+Land Rover,Range Rover,47_13,2016,SUV
+Renault,Trafic,75_17,2015,Combi Van
+Vauxhall,Astra,94_5,2003,Hatchback
+Volkswagen,Touareg,95_28,2013,SUV
+Audi,A1,7_1,2017,Hatchback
+Rolls-Royce,Wraith,77_6,2013,Coupe
+Volkswagen,Scirocco,95_23,2017,Coupe
+Mercedes-Benz,GLA Class,59_23,2015,SUV
+Volkswagen,Eos,95_13,2009,Convertible
+Ferrari,575M,27_9,2003,Coupe
+Audi,RS Q3,7_24,2015,SUV
+Volkswagen,Sharan,95_24,2011,MPV
+Renault,Megane,75_12,2014,Hatchback
+BMW,1 Series,8_1,2015,Hatchback
+Citroen,Grand C4 Picasso,18_24,2014,MPV
+Fiat,Fullback,28_14,2017,Pickup
+Peugeot,306,69_14,2000,Hatchback
+Nissan,Elgrand,64_8,2003,MPV
+Chevrolet,Matiz,16_12,2006,Hatchback
+BMW,7 Series,8_14,2008,Saloon
+Mazda,Bongo,57_4,2015,nan
+Vauxhall,Tigra,94_21,2000,Convertible
+Maserati,Granturismo,55_8,2013,Coupe
+Subaru,WRX STI,86_10,2010,Saloon
+Mercedes-Benz,SLS,59_34,2012,Convertible
+Mazda,MX-5 RF,57_16,2017,Convertible
+Volvo,V40,96_7,2013,Hatchback
+Mitsubishi,Shogun Sport,62_20,2003,SUV
+Suzuki,Baleno,87_2,2016,Hatchback
+Audi,A3,7_3,2000,Hatchback
+Volvo,V60,96_10,2011,Estate
+Citroen,DS3,21_1,2010,Hatchback
+Lexus,IS 220d,48_8,2007,Saloon
+Fiat,500,28_2,2016,Hatchback
+Isuzu,Rodeo,38_3,2007,Pickup
+Audi,RS6 Avant,7_32,2017,Estate
+Audi,Q5,7_20,2015,SUV
+Volvo,XC60,96_16,2012,SUV
+Subaru,XV,86_11,2017,SUV
+Jaguar,XK,39_9,2014,Coupe
+Ford,Tourneo Custom,29_35,2014,Minibus
+Lexus,LC 500,48_14,2017,Coupe
+McLaren,650S,58_5,2014,Convertible
+Daihatsu,Materia,24_6,2009,MPV
+BMW,7 Series,8_14,2010,Saloon
+Ferrari,F430,27_18,2009,nan
+Mitsubishi,Grandis,62_10,2007,MPV
+Kia,Optima,43_6,2015,Saloon
+Vauxhall,Corsa,94_9,2014,Hatchback
+Maserati,GranCabrio,55_6,2013,Convertible
+Audi,A4 Allroad,7_6,2009,Estate
+Jeep,Wrangler,40_7,2015,SUV
+Subaru,Outback,86_7,2006,Estate
+Volvo,XC70,96_17,2003,Estate
+Suzuki,SX4 S-Cross,87_12,2015,SUV
+Citroen,C2,18_7,2003,Hatchback
+MINI,Coupe,54_5,2011,Coupe
+Mitsubishi,L200,62_13,2011,Pickup
+SKODA,Octavia,80_5,2007,Hatchback
+Vauxhall,Meriva,94_14,2010,MPV
+Vauxhall,Insignia,94_13,2015,Hatchback
+Lexus,GS 300,48_2,2009,Saloon
+Volkswagen,Touran,95_29,2006,MPV
+Audi,A6 Saloon,7_11,2014,Estate
+Volkswagen,Polo,95_22,2012,Hatchback
+Ford,Focus,29_14,2003,Hatchback
+Cadillac,STS,14_5,2009,Saloon
+Volvo,V70,96_12,2011,Estate
+Audi,S1,7_34,2017,Hatchback
+Citroen,DS3,21_1,2012,Hatchback
+Mitsubishi,Colt Cabriolet,62_4,2009,Convertible
+Ford,Transit Custom,29_38,2017,Combi Van
+Mercedes-Benz,CL,59_15,2003,Coupe
+Citroen,C8,18_17,2009,MPV
+Toyota,AYGO,92_6,2006,Hatchback
+Saab,9-5,81_3,2000,Saloon
+Citroen,C5,18_15,2008,Saloon
+Fiat,500C,28_3,2011,Convertible
+Audi,A6 Avant,7_11,2007,Estate
+Audi,TT RS,7_47,2016,Coupe
+Lamborghini,Aventador,45_1,2013,Convertible
+Citroen,Xsara Picasso,18_30,2009,MPV
+Alfa Romeo,Giulietta,4_11,2016,Hatchback
+BMW,2 Series Gran Tourer,8_4,2018,MPV
+Volkswagen,CC,95_12,2015,Saloon
+Fiat,Brava,28_9,2000,Hatchback
+Audi,S5,7_39,2013,Coupe
+Nissan,Largo,64_15,2007,nan
+Toyota,Estima,92_14,2014,MPV
+Lexus,RC 300h,48_21,2017,Coupe
+Nissan,Navara,64_20,2010,Pickup
+Vauxhall,Meriva,94_14,2009,MPV
+Subaru,Forester,86_2,2013,SUV
+Ford,Edge,29_5,2017,SUV
+Dacia,Duster,22_1,2014,SUV
+Peugeot,Partner Tepee,69_35,2017,MPV
+Suzuki,Splash,87_9,2010,Hatchback
+Ford,Grand C-Max,29_20,2011,MPV
+Mazda,CX-7,57_8,2007,SUV
+Suzuki,Grand Vitara,87_4,2003,SUV
+Audi,RS3,7_25,2012,Saloon
+Mitsubishi,Shogun,62_18,2014,SUV
+BMW,6 Series Gran Coupe,8_12,2015,Coupe
+Renault,Twingo,75_18,2011,Hatchback
+Mercedes-Benz,E Class,59_20,2014,Saloon
+Peugeot,308,69_18,2016,Hatchback
+Audi,A3,7_3,2011,Hatchback
+Volkswagen,Caravelle,95_11,2012,MPV
+Volvo,C30,96_1,2013,Coupe
+Audi,A6 Avant,7_11,2011,Estate
+Citroen,Dispatch,18_18,2013,Combi Van
+Mercedes-Benz,SL Class,59_30,2009,Convertible
+Mercedes-Benz,CLC Class,59_17,2010,Coupe
+Volvo,XC70,96_17,2011,Estate
+Mercedes-Benz,Vaneo,59_37,2003,MPV
+Audi,RS5,7_30,2017,Coupe
+Maserati,Quattroporte,55_10,2014,Saloon
+Porsche,Macan,71_10,2015,SUV
+Vauxhall,Astra GTC,94_6,2011,Coupe
+SKODA,Fabia,80_2,2007,Hatchback
+Ford,Fiesta,29_13,2006,Hatchback
+Bugatti,Veyron,13_1,2007,Coupe
+Citroen,C3,18_8,2015,Hatchback
+Jaguar,XF,39_7,2010,Saloon
+Ford,Focus,29_14,2011,Hatchback
+Honda,Accord,34_1,2000,Saloon
+Peugeot,3008,69_13,2013,SUV
+Saab,9-5,81_3,2009,Saloon
+Ford,Galaxy,29_19,2012,MPV
+Nissan,X-Trail,64_41,2015,SUV
+Renault,Grand Modus,75_6,2010,Hatchback
+Volkswagen,Touran,95_29,2008,MPV
+Porsche,Cayenne,71_8,2016,SUV
+Alfa Romeo,MiTo,4_14,2013,Hatchback
+Infiniti,QX50,37_10,2015,SUV
+Tesla,Model S,90_1,2015,Saloon
+Land Rover,Range Rover Evoque,47_14,2012,SUV
+Audi,S4,7_36,2011,Saloon
+BMW,X3,8_37,2010,SUV
+Toyota,AYGO,92_6,2014,Hatchback
+Porsche,Cayenne,71_8,2008,SUV
+Subaru,Outback,86_7,2003,Estate
+Mercedes-Benz,CL,59_15,2013,Coupe
+Kia,Venga,43_16,2015,MPV
+Land Rover,Discovery,47_6,2017,SUV
+Kia,Carens,43_1,2014,MPV
+Audi,RS6,7_31,2009,Saloon
+SEAT,Altea,79_2,2014,MPV
+Peugeot,Expert Tepee,69_32,2011,MPV
+Alfa Romeo,MiTo,4_14,2017,Hatchback
+Mercedes-Benz,M Class,59_27,2011,SUV
+BMW,6 Series,8_11,2012,Convertible
+Volvo,S40,96_3,2003,Saloon
+Jaguar,X-Type,39_5,2007,Saloon
+Ford,Transit Custom,29_38,2013,Combi Van
+Vauxhall,Vivaro,94_24,2012,MPV
+Peugeot,308 SW,69_20,2015,Estate
+MINI,Paceman,54_7,2016,Hatchback
+Mercedes-Benz,SL Class,59_30,2003,Convertible
+Toyota,Verso,92_40,2009,MPV
+Audi,S5,7_39,2009,Coupe
+Volvo,V70,96_12,2012,Estate
+Audi,TT,7_46,2008,Coupe
+Chevrolet,Orlando,16_13,2014,MPV
+Ford,Focus,29_14,2012,Hatchback
+Mercedes-Benz,R Class,59_28,2013,MPV
+Lexus,GS 300,48_2,2017,Saloon
+Toyota,Land Cruiser Colorado,92_23,2000,SUV
+Audi,Q5,7_20,2013,SUV
+Suzuki,Celerio,87_3,2017,Hatchback
+Kia,Carens,43_1,2010,MPV
+Vauxhall,ADAM,94_1,2016,Hatchback
+Jaguar,XJ,39_8,2015,Saloon
+Citroen,C-Crosser,18_4,2008,SUV
+Toyota,Urbancruiser,92_39,2009,Hatchback
+Toyota,Auris,92_3,2015,Hatchback
+Mazda,Mazda3,57_11,2010,Hatchback
+BMW,X6M,8_42,2011,SUV
+Audi,A6 Allroad,7_11,2006,Estate
+Ford,Ranger,29_30,2017,Pickup
+Peugeot,Bipper Tepee,69_30,2011,MPV
+Volvo,XC60,96_16,2016,SUV
+Renault,Zoe,75_22,2016,Hatchback
+Ford,Ka,29_23,2009,Hatchback
+Toyota,GT86,92_17,2013,Coupe
+Kia,Soul,43_12,2013,Hatchback
+Ford,Kuga,29_25,2009,SUV
+Volkswagen,Transporter Sportline,95_32,2013,Combi Van
+Audi,R8,7_23,2008,Coupe
+Citroen,C1,18_6,2008,Hatchback
+Vauxhall,Vivaro,94_24,2010,MPV
+Lexus,LS 460,48_15,2009,Saloon
+Fiat,Scudo,28_22,2009,nan
+Audi,A8,7_16,2016,Saloon
+Kia,Pro_Cee'd,43_8,2010,Hatchback
+Audi,S8,7_43,2015,Saloon
+Peugeot,308 CC,69_19,2009,Convertible
+Audi,RS5,7_30,2015,Coupe
+Renault,Clio,75_2,2008,Hatchback
+Lexus,RX 200t,48_24,2016,SUV
+Nissan,eNV200 Evalia,64_9,2017,MPV
+Fiat,500,28_2,2017,Hatchback
+Ferrari,599,27_10,2009,Coupe
+Citroen,C3 Pluriel,18_11,2003,Convertible
+Volvo,XC90,96_18,2008,SUV
+Mercedes-Benz,SLR McLaren,59_33,2010,Coupe
+Land Rover,Defender 110,47_2,2003,SUV
+Jeep,Grand Cherokee,40_4,2008,SUV
+Mercedes-Benz,SLK,59_32,2014,Convertible
+SKODA,Superb,80_9,2009,Hatchback
+Porsche,Cayman,71_9,2006,Coupe
+Alfa Romeo,Brera,4_9,2007,Coupe
+Jaguar,XF,39_7,2013,Saloon
+Vauxhall,VXR8,94_26,2007,Saloon
+Audi,RS6 Avant,7_32,2009,Estate
+Infiniti,QX70,37_11,2014,SUV
+Hyundai,i40,36_12,2015,Estate
+Audi,Q3,7_19,2017,SUV
+Peugeot,308 SW,69_20,2011,Estate
+Honda,CR-Z,34_4,2012,Coupe
+SEAT,Arona,79_4,2017,SUV
+Infiniti,Q50,37_6,2016,Saloon
+Audi,A3,7_3,2008,Hatchback
+MINI,Clubman,54_1,2008,Estate
+Chevrolet,Spark,16_14,2010,Hatchback
+Nissan,GT-R,64_13,2011,Coupe
+Chrysler,Grand Voyager,17_4,2008,MPV
+Smart,forfour,84_1,2017,Hatchback
+Citroen,C2,18_7,2007,Hatchback
+Nissan,Murano,64_19,2010,SUV
+Renault,Scenic,75_14,2014,MPV
+Vauxhall,Astra,94_5,2009,Hatchback
+Land Rover,Freelander 2,47_12,2007,SUV
+Subaru,Impreza,86_3,2016,Hatchback
+Land Rover,Range Rover Sport,47_15,2017,SUV
+Porsche,Cayenne,71_8,2006,SUV
+Toyota,Estima,92_14,2007,MPV
+Mercedes-Benz,GLA Class,59_23,2014,SUV
+Ford,Galaxy,29_19,2014,MPV
+Ferrari,488,27_7,2017,Coupe
+Mercedes-Benz,A Class,59_8,2017,Hatchback
+Jaguar,XJ,39_8,2010,Saloon
+Audi,RS6 Avant,7_32,2008,Estate
+Porsche,Boxster,71_6,2013,Convertible
+Audi,A4 Avant,7_7,2013,Estate
+BMW,2 Series Active Tourer,8_3,2016,MPV
+Volkswagen,Jetta,95_18,2006,Saloon
+Volkswagen,Touareg,95_28,2008,SUV
+BMW,X5,8_39,2007,SUV
+Jeep,Grand Cherokee,40_4,2000,SUV
+Ssangyong,Rexton,85_5,2014,SUV
+Hyundai,i10,36_8,2014,Hatchback
+Nissan,X-Trail,64_41,2003,SUV
+Vauxhall,Antara,94_4,2007,Estate
+Ford,Explorer,29_9,2003,SUV
+Mercedes-Benz,E Class,59_20,2010,Saloon
+Land Rover,Freelander 2,47_12,2013,SUV
+Volvo,S80,96_5,2007,Saloon
+Honda,Jazz,34_11,2009,Hatchback
+Volkswagen,Golf,95_15,2000,Hatchback
+Proton,Satria Neo,72_5,2007,Hatchback
+Land Rover,Discovery 4,47_9,2016,SUV
+Audi,S1,7_34,2016,Hatchback
+Vauxhall,Vivaro,94_24,2006,MPV
+Audi,S3,7_35,2016,Hatchback
+Chevrolet,Orlando,16_13,2013,MPV
+Volvo,C30,96_1,2012,Coupe
+SEAT,Leon,79_10,2011,Hatchback
+Lexus,RX 450h,48_24,2009,SUV
+Maserati,Ghibli,55_5,2016,Saloon
+Toyota,Prius,92_30,2006,Hatchback
+Jaguar,XJ,39_8,2003,Saloon
+Audi,A3 Cabriolet,7_4,2013,Convertible
+Mercedes-Benz,V Class,59_36,2015,MPV
+Audi,A8,7_16,2008,Saloon
+SKODA,Rapid,80_6,2017,Hatchback
+Volvo,S60,96_4,2014,Saloon
+Chevrolet,Matiz,16_12,2007,Hatchback
+Renault,Scenic,75_14,2003,MPV
+Nissan,Note,64_21,2016,Hatchback
+Audi,TT,7_46,2015,Coupe
+Ssangyong,Korando,85_1,2017,SUV
+Audi,A8,7_16,2017,Saloon
+Mercedes-Benz,B Class,59_11,2014,Hatchback
+SEAT,Leon,79_10,2012,Hatchback
+Peugeot,207 CC,69_10,2007,Convertible
+Rover,25,78_1,2003,Hatchback
+Kia,Venga,43_16,2011,MPV
+Volkswagen,Sharan,95_24,2013,MPV
+Audi,RS4,7_26,2009,Saloon
+Hyundai,ix35,36_16,2011,SUV
+Suzuki,Grand Vitara,87_4,2013,SUV
+Abarth,595C,2_5,2016,Convertible
+Chevrolet,Captiva,16_5,2008,SUV
+Subaru,Forester,86_2,2000,SUV
+Mercedes-Benz,SLK,59_32,2015,Convertible
+BMW,1 Series,8_1,2007,Hatchback
+Audi,TTS,7_48,2014,Coupe
+Audi,TT,7_46,2013,Coupe
+Mitsubishi,ASX,62_1,2017,SUV
+Smart,fortwo,84_2,2017,Hatchback
+Toyota,Corolla Verso,92_12,2006,MPV
+DS,3,21_1,2015,Hatchback
+Vauxhall,Astra,94_5,2015,Hatchback
+Vauxhall,Astra,94_5,2006,Hatchback
+Nissan,Micra,64_17,2006,Hatchback
+BMW,7 Series,8_14,2018,Saloon
+MINI,Hatch,54_6,2006,Hatchback
+Audi,TTS,7_48,2017,Coupe
+Peugeot,207 CC,69_10,2008,Convertible
+Kia,Pro_Cee'd,43_8,2017,Hatchback
+Audi,A4 Avant,7_7,2015,Estate
+Mercedes-Benz,A Class,59_8,2013,Hatchback
+Citroen,Grand C4 Picasso,18_24,2016,MPV
+Jaguar,XF,39_7,2014,Saloon
+Jaguar,XF,39_7,2009,Saloon
+Ford,Fusion,29_18,2010,Hatchback
+Nissan,Navara,64_20,2011,Pickup
+Ferrari,Gtc4lusso,27_20,2017,Hatchback
+BMW,M4,8_31,2015,Coupe
+Mercedes-Benz,M Class,59_27,2012,SUV
+BMW,X5,8_39,2013,SUV
+BMW,7 Series,8_14,2006,Saloon
+Peugeot,207,69_9,2012,Hatchback
+Hyundai,i800,36_13,2017,MPV
+Lexus,GS 300,48_2,2015,Saloon
+Nissan,Note,64_21,2006,Hatchback
+Vauxhall,Insignia,94_13,2012,Hatchback
+Audi,A6 Unspecified,7_11,2010,Estate
+Volvo,V60,96_10,2013,Estate
+Jaguar,XKR,39_11,2006,Coupe
+Volvo,S80,96_5,2000,Saloon
+Hyundai,i40,36_12,2017,Estate
+Nissan,Elgrand,64_8,2016,MPV
+Audi,A5 Cabriolet,7_10,2012,Convertible
+SKODA,Roomster,80_8,2015,MPV
+Suzuki,SX4,87_11,2013,Hatchback
+Audi,S5,7_39,2016,Coupe
+Porsche,911,71_4,2013,Coupe
+Mercedes-Benz,B Class,59_11,2013,Hatchback
+Audi,S3,7_35,2000,Hatchback
+Porsche,Cayenne,71_8,2009,SUV
+Citroen,C4,18_12,2014,Hatchback
+Ford,C-Max,29_2,2008,MPV
+Nissan,Pathfinder,64_24,2007,MPV
+Peugeot,RCZ,69_36,2013,Coupe
+Audi,SQ7,7_45,2016,SUV
+Volkswagen,Scirocco,95_23,2008,Coupe
+Volkswagen,Golf Plus,95_16,2007,Hatchback
+Citroen,C4,18_12,2011,Hatchback
+Alfa Romeo,GT,4_12,2007,Coupe
+Volkswagen,Golf SV,95_17,2017,Hatchback
+Bentley,Continental,10_5,2010,Convertible
+Proton,GEN-2,72_1,2007,Hatchback
+Volkswagen,Phaeton,95_21,2009,Saloon
+Jeep,Grand Cherokee,40_4,2003,SUV
+Vauxhall,Corsa,94_9,2012,Hatchback
+Hyundai,Terracan,36_22,2003,SUV
+Citroen,Grand C4 Picasso,18_24,2009,MPV
+Smart,fortwo,84_2,2003,Hatchback
+Fiat,Doblo,28_12,2007,Estate
+Tesla,Model X,90_2,2017,Hatchback
+Ford,Galaxy,29_19,2013,MPV
+Peugeot,508,69_26,2017,Saloon
+Renault,Laguna,75_11,2011,Hatchback
+Mitsubishi,Mirage,62_15,2014,Hatchback
+Peugeot,207 CC,69_10,2010,Convertible
+Porsche,Boxster,71_6,2016,Convertible
+Fiat,Doblo,28_12,2008,Estate
+Daihatsu,Sirion,24_7,2003,Hatchback
+BMW,3 Series Gran Turismo,8_6,2014,Hatchback
+Audi,A8,7_16,2009,Saloon
+Audi,A6 Unspecified,7_11,2016,Estate
+Toyota,GT86,92_17,2012,Coupe
+Honda,Jazz,34_11,2003,Hatchback
+Volkswagen,Polo,95_22,2010,Hatchback
+SEAT,Alhambra,79_1,2017,MPV
+Volkswagen,Touareg,95_28,2011,SUV
+Land Rover,Range Rover,47_13,2017,SUV
+Nissan,370 Z,64_2,2010,Convertible
+Audi,RS3,7_25,2016,Saloon
+BMW,6 Series,8_11,2010,Convertible
+Volvo,XC60,96_16,2015,SUV
+Subaru,Forester,86_2,2008,SUV
+Dodge,Caliber,26_2,2007,Hatchback
+BMW,i3,8_27,2015,Hatchback
+BMW,X4,8_38,2017,SUV
+Citroen,Berlingo Multispace,18_3,2007,MPV
+Peugeot,Partner Tepee,69_35,2016,MPV
+Chrysler,Grand Voyager,17_4,2003,MPV
+Mazda,Mazda3,57_11,2016,Hatchback
+Abarth,595,2_4,2016,Hatchback
+Audi,A5 Cabriolet,7_10,2015,Convertible
+Mazda,Mazda3,57_11,2017,Hatchback
+Honda,CR-Z,34_4,2013,Coupe
+Volvo,C70,96_2,2011,Convertible
+BMW,4 Series Gran Coupe,8_8,2017,Coupe
+Toyota,Land Cruiser,92_21,2010,SUV
+Smart,forfour,84_1,2006,Hatchback
+Volkswagen,Amarok,95_1,2015,Hatchback
+BMW,Alpina D3 Bi-Turbo,8_21,2008,Saloon
+Mazda,CX-7,57_8,2010,SUV
+Audi,A6 Saloon,7_11,2003,Estate
+SEAT,Leon,79_10,2008,Hatchback
+Peugeot,307 SW,69_17,2006,Estate
+Hyundai,Santa Fe,36_20,2006,SUV
+Vauxhall,Insignia,94_13,2017,Hatchback
+Peugeot,108,69_4,2016,Hatchback
+Land Rover,Defender 90,47_4,2013,SUV
+Audi,A4 Allroad,7_6,2012,Estate
+Porsche,Boxster,71_6,2007,Convertible
+Toyota,Avensis,92_4,2000,Estate
+Mazda,Mazda3,57_11,2011,Hatchback
+Volvo,V40 Cross Country,96_8,2015,Hatchback
+Vauxhall,Zafira,94_27,2012,MPV
+Volvo,XC90,96_18,2016,SUV
+Volkswagen,Sharan,95_24,2006,MPV
+Alfa Romeo,Stelvio,4_16,2017,SUV
+Ford,Focus,29_14,2007,Hatchback
+Volkswagen,Caddy Maxi,95_7,2015,Panel Van
+SKODA,Superb,80_9,2012,Hatchback
+Maserati,GranCabrio,55_6,2016,Convertible
+Audi,A1,7_1,2015,Hatchback
+Ford,Galaxy,29_19,2011,MPV
+Mazda,Mazda2,57_10,2015,Hatchback
+Audi,RS3,7_25,2011,Saloon
+Subaru,Outback,86_7,2013,Estate
+Volvo,S40,96_3,2010,Saloon
+Chevrolet,Volt,16_19,2013,Hatchback
+Toyota,Avensis,92_4,2016,Estate
+Audi,A3,7_3,2016,Hatchback
+Ford,S-Max,29_31,2007,MPV
+Porsche,Panamera,71_11,2017,Hatchback
+Ford,B-Max,29_1,2016,MPV
+Ford,Transit Custom,29_38,2016,Combi Van
+Fiat,Panda,28_18,2008,Hatchback
+Subaru,Outback,86_7,2009,Estate
+Audi,A6 Avant,7_11,2008,Estate
+Jeep,Patriot,40_5,2011,SUV
+Citroen,C3 Picasso,18_10,2011,MPV
+Audi,A8,7_16,2015,Saloon
+Mercedes-Benz,A Class,59_8,2016,Hatchback
+Ford,Galaxy,29_19,2000,MPV
+Chevrolet,Lacetti,16_11,2008,Estate
+Audi,A7,7_15,2017,Hatchback
+Kia,Carens,43_1,2013,MPV
+Audi,RS4 Avant,7_27,2015,Estate
+SEAT,Leon,79_10,2009,Hatchback
+Suzuki,Alto,87_1,2003,Hatchback
+Vauxhall,Movano,94_18,2014,nan
+Mercedes-Benz,E Class,59_20,2012,Saloon
+Audi,RS4 Avant,7_27,2006,Estate
+Vauxhall,Zafira,94_27,2011,MPV
+Jaguar,XKR,39_11,2013,Coupe
+Peugeot,308 SW,69_20,2017,Estate
+Mitsubishi,Outlander,62_16,2017,SUV
+Audi,A8,7_16,2013,Saloon
+Nissan,X-Trail,64_41,2011,SUV
+SKODA,Fabia,80_2,2012,Hatchback
+Vauxhall,Signum,94_20,2006,Hatchback
+Honda,CR-V,34_3,2016,SUV
+Peugeot,2008,69_5,2013,SUV
+Jeep,Cherokee,40_1,2003,SUV
+Mercedes-Benz,S Class,59_29,2015,Saloon
+Renault,Megane,75_12,2016,Hatchback
+Ford,Tourneo Custom,29_35,2016,Minibus
+Kia,Sportage,43_13,2011,SUV
+Toyota,Avensis,92_4,2014,Estate
+Toyota,iQ,92_20,2012,Hatchback
+Volkswagen,Fox,95_14,2010,Hatchback
+SEAT,Alhambra,79_1,2000,MPV
+Peugeot,407,69_23,2006,Saloon
+Mercedes-Benz,Amg Gt,59_10,2015,Coupe
+Mazda,Mazda6,57_13,2009,Saloon
+Audi,TTS,7_48,2009,Coupe
+Land Rover,Defender 110,47_2,2011,SUV
+Fiat,Grande Punto,28_15,2008,Hatchback
+Daihatsu,Sirion,24_7,2008,Hatchback
+SKODA,Octavia,80_5,2009,Hatchback
+Audi,S4 Avant,7_37,2013,Estate
+SEAT,Ateca,79_6,2016,SUV
+Jaguar,XJ,39_8,2006,Saloon
+Ford,C-Max,29_2,2007,MPV
+Mercedes-Benz,E Class,59_20,2009,Saloon
+Land Rover,Range Rover Sport,47_15,2009,SUV
+Peugeot,308 SW,69_20,2010,Estate
+Maserati,Quattroporte,55_10,2016,Saloon
+Renault,Scenic,75_14,2013,MPV
+Rolls-Royce,Phantom,77_4,2007,Limousine
+Jaguar,XJ,39_8,2007,Saloon
+Mercedes-Benz,CL,59_15,2012,Coupe
+Hyundai,ix35,36_16,2012,SUV
+Land Rover,Defender 90,47_4,2014,SUV
+Audi,RS5,7_30,2010,Coupe
+Subaru,Levorg,86_6,2015,Estate
+Ssangyong,Tivoli,85_7,2015,Hatchback
+BMW,M3,8_30,2009,Coupe
+Bentley,Continental,10_5,2009,Convertible
+Kia,Optima,43_6,2012,Saloon
+Peugeot,308 SW,69_20,2013,Estate
+Audi,Q7,7_21,2016,SUV
+Peugeot,208,69_12,2013,Hatchback
+Infiniti,EX,37_1,2012,SUV
+Hyundai,i10,36_8,2009,Hatchback
+Alfa Romeo,Giulietta,4_11,2017,Hatchback
+Vauxhall,Vivaro,94_24,2007,MPV
+Audi,A4,7_5,2010,Saloon
+Ford,Focus C-Max,29_15,2007,MPV
+Honda,Jazz,34_11,2006,Hatchback
+Renault,Wind,75_21,2010,Convertible
+Audi,RS Q3,7_24,2014,SUV
+Volkswagen,Golf,95_15,2003,Hatchback
+Ssangyong,Korando,85_1,2015,SUV
+Mazda,Mazda6,57_13,2010,Saloon
+BMW,Z4,8_45,2003,Convertible
+BMW,5 Series,8_9,2010,Saloon
+Ford,Focus,29_14,2008,Hatchback
+Mazda,Mazda6,57_13,2015,Saloon
+Renault,Scenic,75_14,2000,MPV
+Citroen,Berlingo,18_2,2014,MPV
+Fiat,Panda,28_18,2007,Hatchback
+Ford,C-Max,29_2,2010,MPV
+Infiniti,Q70,37_8,2015,Saloon
+Ford,C-Max,29_2,2012,MPV
+McLaren,P1,58_8,2016,Coupe
+Dacia,Logan MCV,22_2,2015,Estate
+Volkswagen,Jetta,95_18,2016,Saloon
+Subaru,Forester,86_2,2016,SUV
+Isuzu,D-Max,38_2,2017,Pickup
+Ford,Fiesta,29_13,2003,Hatchback
+Mercedes-Benz,CLC Class,59_17,2008,Coupe
+Toyota,Prius+,92_31,2017,Estate
+Ford,Transit Connect,29_36,2003,nan
+Lexus,RX 450h,48_24,2017,SUV
+Mitsubishi,Outlander,62_16,2014,SUV
+Audi,S4 Avant,7_37,2010,Estate
+Audi,S1,7_34,2015,Hatchback
+SKODA,Citigo,80_1,2017,Hatchback
+Mazda,CX-5,57_7,2016,SUV
+Renault,Koleos,75_10,2008,SUV
+Mercedes-Benz,CLS,59_19,2014,Coupe
+Peugeot,206 SW,69_8,2003,Estate
+Volkswagen,Passat,95_20,2016,Estate
+McLaren,675LT,58_6,2015,Convertible
+Subaru,Forester,86_2,2006,SUV
+Fiat,Sedici,28_23,2009,Hatchback
+Toyota,iQ,92_20,2011,Hatchback
+Lexus,IS 200,48_8,2000,Saloon
+Toyota,RAV4,92_34,2011,SUV
+Ford,Ranger,29_30,2014,Pickup
+BMW,5 Series,8_9,2016,Saloon
+Volvo,V40 Cross Country,96_8,2013,Hatchback
+Fiat,500X,28_5,2016,SUV
+Jaguar,XF,39_7,2011,Saloon
+BMW,3 Series Gran Turismo,8_6,2015,Hatchback
+BMW,Z4,8_45,2013,Convertible
+Audi,RS4 Avant,7_27,2007,Estate
+Mitsubishi,Shogun Pinin,62_19,2000,SUV
+Jeep,Grand Cherokee,40_4,2016,SUV
+Audi,SQ5,7_44,2016,SUV
+Audi,Q2,7_18,2017,SUV
+Volvo,S80,96_5,2010,Saloon
+Jeep,Compass,40_3,2012,SUV
+Volvo,V60,96_10,2016,Estate
+Ford,EcoSport,29_4,2014,SUV
+BMW,2 Series Gran Tourer,8_4,2017,MPV
+Kia,Picanto,43_7,2009,Hatchback
+Kia,Rio,43_9,2015,Hatchback
+MINI,Convertible,54_3,2010,Convertible
+Audi,S3,7_35,2007,Hatchback
+Dacia,Sandero Stepway,22_4,2014,Hatchback
+Ford,Escort,29_7,2000,Hatchback
+Subaru,Outback,86_7,2010,Estate
+Vauxhall,Vectra,94_22,2000,Hatchback
+Fiat,Spider,28_25,2017,Convertible
+BMW,7 Series,8_14,2017,Saloon
+SKODA,Octavia,80_5,2008,Hatchback
+Mercedes-Benz,M Class,59_27,2009,SUV
+Fiat,Punto,28_19,2003,Hatchback
+Honda,Accord,34_1,2012,Saloon
+Peugeot,308 SW,69_20,2014,Estate
+MG,MG3,53_2,2015,Hatchback
+MINI,Clubvan,54_2,2014,Panel Van
+Citroen,C-Zero,18_5,2012,Hatchback
+BMW,X6M,8_42,2009,SUV
+Vauxhall,Antara,94_4,2011,Estate
+Mercedes-Benz,Sprinter,59_35,2015,nan
+BMW,5 Series,8_9,2014,Saloon
+Audi,A7,7_15,2016,Hatchback
+Volkswagen,Beetle,95_3,2013,Convertible
+Audi,S4 Avant,7_37,2017,Estate
+Honda,Insight,34_9,2010,Hatchback
+Mercedes-Benz,GLA Class,59_23,2017,SUV
+Volkswagen,Phaeton,95_21,2006,Saloon
+Volkswagen,Caddy Maxi Life,95_8,2010,MPV
+Ferrari,Laferrari,27_21,2014,Coupe
+SEAT,Altea,79_2,2009,MPV
+Mercedes-Benz,CLA Class,59_16,2016,Coupe
+Jaguar,XKR,39_11,2010,Coupe
+Mitsubishi,L200,62_13,2008,Pickup
+Mercedes-Benz,Sprinter,59_35,2014,nan
+Volvo,XC60,96_16,2011,SUV
+Audi,A6 Avant,7_11,2010,Estate
+Audi,Q7,7_21,2017,SUV
+Mercedes-Benz,S Class,59_29,2006,Saloon
+Ssangyong,Turismo,85_9,2017,MPV
+Kia,Cee'd,43_2,2011,Estate
+Renault,Trafic,75_17,2014,Combi Van
+Vauxhall,Astra,94_5,2011,Hatchback
+McLaren,P1,58_8,2013,Coupe
+Land Rover,Range Rover,47_13,2011,SUV
+Volvo,V60,96_10,2017,Estate
+Toyota,Verso,92_40,2012,MPV
+Volvo,V40,96_7,2017,Hatchback
+Jeep,Renegade,40_6,2017,SUV
+Suzuki,SX4,87_11,2007,Hatchback
+Hyundai,i30,36_10,2015,Hatchback
+Ford,Kuga,29_25,2012,SUV
+MINI,Clubman,54_1,2007,Estate
+Volkswagen,Tiguan,95_26,2013,SUV
+Ford,Tourneo Connect,29_34,2007,MPV
+Vauxhall,Zafira Tourer,94_28,2017,MPV
+Lexus,GS 450h,48_2,2008,Saloon
+Lexus,GS 250,48_2,2013,Saloon
+Suzuki,Splash,87_9,2013,Hatchback
+Renault,Clio,75_2,2015,Hatchback
+Porsche,Boxster,71_6,2014,Convertible
+Volvo,V70,96_12,2000,Estate
+Fiat,500,28_2,2013,Hatchback
+BMW,X1,8_35,2014,SUV
+Nissan,Micra,64_17,2010,Hatchback
+Audi,A6 Saloon,7_11,2012,Estate
+Daewoo,Kalos,23_1,2003,Hatchback
+Honda,Accord,34_1,2009,Saloon
+Toyota,Hilux,92_19,2008,nan
+Mercedes-Benz,C Class,59_12,2007,Estate
+Toyota,iQ,92_20,2013,Hatchback
+BMW,i3,8_27,2016,Hatchback
+Mercedes-Benz,M Class,59_27,2010,SUV
+BMW,1 Series,8_1,2018,Hatchback
+BMW,X5,8_39,2017,SUV
+Suzuki,Liana,87_8,2007,Hatchback
+Hyundai,i10,36_8,2015,Hatchback
+Infiniti,G,37_3,2014,Convertible
+Hyundai,i20,36_9,2000,Hatchback
+Alfa Romeo,Giulietta,4_11,2014,Hatchback
+Volkswagen,Beetle,95_3,2000,Convertible
+Audi,Q5,7_20,2008,SUV
+Porsche,718 Boxster,71_2,2017,Convertible
+Citroen,C4,18_12,2008,Hatchback
+Subaru,Forester,86_2,2015,SUV
+Porsche,Cayman,71_9,2012,Coupe
+Mercedes-Benz,C Class,59_12,2008,Estate
+Mitsubishi,Outlander,62_16,2009,SUV
+Audi,RS Q3,7_24,2016,SUV
+Toyota,Corolla Verso,92_12,2008,MPV
+Mercedes-Benz,SLK,59_32,2008,Convertible
+Audi,SQ5,7_44,2015,SUV
+Vauxhall,Astra,94_5,2012,Hatchback
+Vauxhall,ADAM,94_1,2015,Hatchback
+BMW,i8,8_28,2016,Coupe
+Porsche,Cayman,71_9,2016,Coupe
+Kia,Picanto,43_7,2014,Hatchback
+Citroen,C4,18_12,2012,Hatchback
+Audi,A4 Cabriolet,7_8,2007,Convertible
+Hyundai,Getz,36_6,2008,Hatchback
+BMW,M6 Gran Coupe,8_34,2014,Coupe
+Volvo,V90,96_14,2017,Estate
+Kia,Soul,43_12,2014,Hatchback
+Mercedes-Benz,CL,59_15,2007,Coupe
+Toyota,Yaris,92_44,2003,Hatchback
+Audi,A3 Cabriolet,7_4,2008,Convertible
+BMW,6 Series Gran Coupe,8_12,2012,Coupe
+Alfa Romeo,Giulia,4_10,2017,Saloon
+SKODA,Rapid Spaceback,80_7,2014,Hatchback
+Fiat,500C,28_3,2015,Convertible
+Ford,Tourneo Custom,29_35,2015,Minibus
+Hyundai,i20,36_9,2014,Hatchback
+Nissan,Leaf,64_16,2016,Hatchback
+Hyundai,Tucson,36_24,2015,SUV
+Kia,Cee'd,43_2,2013,Estate
+Renault,Laguna,75_11,2006,Hatchback
+Dacia,Sandero Stepway,22_4,2016,Hatchback
+Toyota,iQ,92_20,2009,Hatchback
+Kia,Venga,43_16,2014,MPV
+DS,3 Cabrio,21_2,2015,Convertible
+Hyundai,Matrix,36_18,2008,Hatchback
+Peugeot,Bipper Tepee,69_30,2010,MPV
+Nissan,Juke,64_14,2012,SUV
+Lexus,GS F,48_2,2017,Saloon
+Fiat,Punto Evo,28_20,2012,Hatchback
+SKODA,Roomster,80_8,2008,MPV
+Vauxhall,Mokka,94_15,2013,Hatchback
+Volvo,V40,96_7,2012,Hatchback
+Ford,Ranger,29_30,2008,Pickup
+Bentley,Continental,10_5,2003,Convertible
+Subaru,XV,86_11,2016,SUV
+Citroen,Dispatch,18_18,2015,Combi Van
+Lamborghini,Gallardo,45_3,2011,Coupe
+Citroen,C4 Picasso,18_14,2010,MPV
+Bentley,Mulsanne,10_7,2014,Saloon
+Toyota,Auris,92_3,2008,Hatchback
+Peugeot,607,69_28,2003,Saloon
+Citroen,Grand C4 Picasso,18_24,2007,MPV
+Audi,TTS,7_48,2010,Coupe
+Lexus,RX 450h,48_24,2013,SUV
+Kia,Rio,43_9,2010,Hatchback
+SKODA,Kodiaq,80_4,2017,SUV
+Mercedes-Benz,220,59_2,2012,Saloon
+Renault,Grand Espace,75_5,2003,MPV
+Toyota,Previa,92_29,2000,MPV
+BMW,5 Series,8_9,2018,Saloon
+Porsche,Cayman,71_9,2013,Coupe
+Vauxhall,Agila,94_2,2010,Hatchback
+Renault,Zoe,75_22,2014,Hatchback
+Lexus,IS 250,48_8,2011,Saloon
+Smart,fortwo,84_2,2000,Hatchback
+MINI,Countryman,54_4,2010,Hatchback
+Saab,9-3,81_1,2000,Convertible
+Lexus,GS 300,48_2,2000,Saloon
+Volkswagen,CC,95_12,2016,Saloon
+Audi,S4 Cabriolet,7_38,2006,Convertible
+Volvo,XC70,96_17,2008,Estate
+Vauxhall,Zafira,94_27,2000,MPV
+BMW,i8,8_28,2014,Coupe
+Ford,Fusion,29_18,2011,Hatchback
+Ford,B-Max,29_1,2013,MPV
+Ssangyong,Korando Sports,85_2,2017,Pickup
+Infiniti,FX,37_2,2010,SUV
+Peugeot,207 CC,69_10,2011,Convertible
+Hyundai,ix20,36_15,2014,Hatchback
+Corvette,C6,19_1,2009,nan
+Vauxhall,Insignia,94_13,2009,Hatchback
+Volvo,XC70,96_17,2010,Estate
+Nissan,Juke,64_14,2016,SUV
+Isuzu,Rodeo,38_3,2006,Pickup
+Lamborghini,Aventador,45_1,2012,Convertible
+Kia,Sportage,43_13,2006,SUV
+Hyundai,Tucson,36_24,2006,SUV
+BMW,1 Series,8_1,2017,Hatchback
+Mitsubishi,Outlander,62_16,2016,SUV
+Volvo,V70,96_12,2008,Estate
+Renault,Megane,75_12,2008,Hatchback
+Volkswagen,Lupo,95_19,2000,Hatchback
+Mercedes-Benz,SL Class,59_30,2000,Convertible
+Land Rover,Freelander 2,47_12,2012,SUV
+BMW,M4,8_31,2017,Coupe
+Porsche,718 Boxster,71_2,2016,Convertible
+BMW,5 Series,8_9,2003,Saloon
+SKODA,Roomster,80_8,2011,MPV
+Citroen,Grand C4 Picasso,18_24,2015,MPV
+Ford,Mustang,29_28,2007,Coupe
+Mazda,Mazda2,57_10,2006,Hatchback
+Mitsubishi,ASX,62_1,2010,SUV
+Citroen,C1,18_6,2006,Hatchback
+Chevrolet,Matiz,16_12,2009,Hatchback
+BMW,M3,8_30,2012,Coupe
+Renault,Laguna,75_11,2003,Hatchback
+Audi,A6 Allroad,7_11,2008,Estate
+McLaren,P1,58_8,2015,Coupe
+Mazda,Mazda2,57_10,2008,Hatchback
+Honda,Civic,34_2,2014,Hatchback
+Dacia,Logan MCV,22_2,2016,Estate
+Volvo,S60,96_4,2012,Saloon
+Renault,Twingo,75_18,2012,Hatchback
+Toyota,Auris,92_3,2012,Hatchback
+BMW,X3,8_37,2011,SUV
+Chrysler,Grand Voyager,17_4,2014,MPV
+BMW,X4,8_38,2016,SUV
+BMW,Alpina D3 Bi-Turbo,8_21,2010,Saloon
+Kia,Cee'd,43_2,2017,Estate
+Subaru,Impreza,86_3,2010,Hatchback
+Kia,Picanto,43_7,2013,Hatchback
+Audi,A4 Avant,7_7,2006,Estate
+Mitsubishi,Colt,62_3,2010,Hatchback
+Maserati,GranCabrio,55_6,2011,Convertible
+Fiat,Punto,28_19,2000,Hatchback
+Infiniti,FX,37_2,2012,SUV
+Hyundai,i10,36_8,2008,Hatchback
+Fiat,Grande Punto,28_15,2006,Hatchback
+Mazda,Mazda2,57_10,2010,Hatchback
+Jeep,Compass,40_3,2007,SUV
+Kia,Sportage,43_13,2013,SUV
+Lotus,Elise S,51_4,2012,Convertible
+Abarth,595C,2_5,2017,Convertible
+Audi,A3 Cabriolet,7_4,2009,Convertible
+Citroen,C5,18_15,2013,Saloon
+Peugeot,307 CC,69_16,2007,Convertible
+Mitsubishi,Lancer,62_14,2011,Saloon
+Citroen,Dispatch,18_18,2014,Combi Van
+Jaguar,XF,39_7,2008,Saloon
+Ford,Kuga,29_25,2014,SUV
+Ford,Ka,29_23,2006,Hatchback
+Renault,Grand Modus,75_6,2011,Hatchback
+Volkswagen,Polo,95_22,2006,Hatchback
+Maserati,Ghibli,55_5,2017,Saloon
+Lamborghini,Gallardo,45_3,2013,Coupe
+Porsche,Boxster,71_6,2000,Convertible
+SEAT,Ibiza,79_9,2006,Hatchback
+Audi,A7,7_15,2012,Hatchback
+Jaguar,XKR,39_11,2011,Coupe
+Audi,Q7,7_21,2015,SUV
+Ssangyong,Musso,85_4,2017,Pickup
+Volkswagen,Transporter,95_30,2008,Combi Van
+Volkswagen,Fox,95_14,2009,Hatchback
+Volvo,S80,96_5,2009,Saloon
+Nissan,Cube,64_5,2010,Hatchback
+Nissan,GT-R,64_13,2013,Coupe
+Audi,RS4 Saloon,7_29,2006,Saloon
+Renault,Modus,75_13,2008,Hatchback
+BMW,X3,8_37,2012,SUV
+Hyundai,i800,36_13,2009,MPV
+Peugeot,Expert,69_31,2014,Panel Van
+Volvo,S40,96_3,2011,Saloon
+Fiat,Punto Evo,28_20,2011,Hatchback
+Ford,Fiesta,29_13,2008,Hatchback
+Fiat,124 Spider,28_1,2017,Convertible
+Nissan,Qashqai,64_33,2014,SUV
+Audi,A1,7_1,2011,Hatchback
+Vauxhall,Antara,94_4,2012,Estate
+Peugeot,Expert Tepee,69_32,2010,MPV
+Mazda,Mazda6,57_13,2007,Saloon
+Honda,Civic,34_2,2012,Hatchback
+Dacia,Duster,22_1,2016,SUV
+Ford,S-Max,29_31,2014,MPV
+BMW,i3,8_27,2017,Hatchback
+Dodge,Caliber,26_2,2008,Hatchback
+Dacia,Logan MCV,22_2,2017,Estate
+SEAT,Alhambra,79_1,2014,MPV
+Lexus,GS 300,48_2,2007,Saloon
+Nissan,Navara,64_20,2009,Pickup
+Subaru,Outback,86_7,2016,Estate
+Volkswagen,Scirocco,95_23,2009,Coupe
+Chevrolet,Cruze,16_7,2011,Hatchback
+Audi,A7,7_15,2010,Hatchback
+Ford,Galaxy,29_19,2008,MPV
+Nissan,Micra,64_17,2015,Hatchback
+Chevrolet,Blazer,16_3,2000,SUV
+Vauxhall,Corsa,94_9,2013,Hatchback
+Lexus,RX 350,48_24,2007,SUV
+Saab,9-3,81_1,2011,Convertible
+BMW,X3,8_37,2006,SUV
+Land Rover,Freelander 2,47_12,2009,SUV
+Kia,Carens,43_1,2009,MPV
+Kia,Sorento,43_11,2013,SUV
+Audi,A4 Avant,7_7,2014,Estate
+Chrysler,Sebring,17_8,2009,Convertible
+Mazda,BT-50,57_5,2009,Pickup
+Subaru,WRX STI,86_10,2017,Saloon
+Vauxhall,Mokka,94_15,2012,Hatchback
+Nissan,e-NV200,64_7,2017,Combi Van
+Jaguar,XK,39_9,2006,Coupe
+Ford,Grand C-Max,29_20,2013,MPV
+MINI,Hatch,54_6,2008,Hatchback
+Audi,S5,7_39,2012,Coupe
+Rolls-Royce,Phantom,77_4,2012,Limousine
+Toyota,Alphard,92_2,2007,MPV
+Subaru,Outback,86_7,2014,Estate
+Volkswagen,Touran,95_29,2013,MPV
+Kia,Sportage,43_13,2010,SUV
+Volvo,XC90,96_18,2010,SUV
+Volkswagen,Amarok,95_1,2017,Hatchback
+Ford,Galaxy,29_19,2007,MPV
+Peugeot,207 SW,69_11,2008,Estate
+Land Rover,Defender 90,47_4,2015,SUV
+Nissan,Juke,64_14,2013,SUV
+Ford,Fusion,29_18,2012,Hatchback
+Citroen,C5,18_15,2010,Saloon
+BMW,M2,8_29,2016,Coupe
+Lamborghini,Huracan,45_4,2017,Convertible
+Suzuki,Alto,87_1,2009,Hatchback
+Nissan,Leaf,64_16,2014,Hatchback
+Vauxhall,Agila,94_2,2011,Hatchback
+Volkswagen,CC,95_12,2017,Saloon
+Lexus,GS 300,48_2,2008,Saloon
+Kia,Optima,43_6,2014,Saloon
+Hyundai,ix35,36_16,2016,SUV
+Jaguar,XK,39_9,2007,Coupe
+Fiat,Punto,28_19,2016,Hatchback
+Toyota,Hilux,92_19,2011,nan
+Audi,Q2,7_18,2016,SUV
+Jaguar,XF,39_7,2012,Saloon
+Volkswagen,Touran,95_29,2009,MPV
+Volvo,C30,96_1,2010,Coupe
+Subaru,Forester,86_2,2007,SUV
+Ford,Ka,29_23,2008,Hatchback
+Vauxhall,Corsa,94_9,2016,Hatchback
+BMW,5 Series Gran Turismo,8_10,2014,Hatchback
+Porsche,911,71_4,2017,Coupe
+Ford,Mondeo,29_27,2003,Hatchback
+Hyundai,Santa Fe,36_20,2008,SUV
+BMW,X6,8_41,2018,SUV
+Citroen,C5,18_15,2006,Saloon
+Vauxhall,Insignia,94_13,2011,Hatchback
+Mitsubishi,Colt,62_3,2006,Hatchback
+Mercedes-Benz,B Class,59_11,2011,Hatchback
+Mercedes-Benz,CLA Class,59_16,2017,Coupe
+Suzuki,Grand Vitara,87_4,2000,SUV
+BMW,Z4M,8_46,2006,Coupe
+BMW,7 Series,8_14,2012,Saloon
+Bentley,Arnage,10_1,2000,Saloon
+Lexus,LS 460,48_15,2006,Saloon
+Ford,Fiesta,29_13,2016,Hatchback
+Citroen,C1,18_6,2007,Hatchback
+Ford,Tourneo Connect,29_34,2010,MPV
+Lexus,LS 600h,48_15,2015,Saloon
+Mazda,CX-5,57_7,2014,SUV
+Ford,Ranger,29_30,2011,Pickup
+Dacia,Sandero Stepway,22_4,2013,Hatchback
+Volkswagen,Beetle,95_3,2016,Convertible
+Infiniti,Q30,37_5,2016,Hatchback
+Audi,A6 Saloon,7_11,2016,Estate
+SKODA,Superb,80_9,2014,Hatchback
+Vauxhall,Agila,94_2,2009,Hatchback
+Ssangyong,Rexton,85_5,2008,SUV
+Citroen,Berlingo,18_2,2010,MPV
+Dacia,Sandero Stepway,22_4,2017,Hatchback
+Suzuki,Splash,87_9,2014,Hatchback
+Lexus,IS 300,48_8,2014,Saloon
+Porsche,Cayenne,71_8,2013,SUV
+Porsche,Panamera,71_11,2014,Hatchback
+Fiat,Panda,28_18,2009,Hatchback
+Maserati,3200,55_1,2000,Coupe
+Fiat,Qubo,28_21,2013,MPV
+Rover,75,78_3,2006,Saloon
+Kia,Carens,43_1,2015,MPV
+Nissan,Micra,64_17,2011,Hatchback
+Audi,A8,7_16,2012,Saloon
+Honda,CR-V,34_3,2008,SUV
+Fiat,Doblo,28_12,2010,Estate
+Lexus,NX 200t,48_18,2016,Estate
+Audi,A8,7_16,2006,Saloon
+Peugeot,208,69_12,2017,Hatchback
+Audi,A3 Cabriolet,7_4,2012,Convertible
+Kia,Picanto,43_7,2016,Hatchback
+Ford,Transit Connect,29_36,2014,nan
+BMW,X6,8_41,2011,SUV
+BMW,X5,8_39,2000,SUV
+Peugeot,307 CC,69_16,2003,Convertible
+Peugeot,Partner Tepee,69_35,2014,MPV
+Suzuki,SX4,87_11,2009,Hatchback
+BMW,3 Series,8_5,2008,Coupe
+Mercedes-Benz,B Class,59_11,2006,Hatchback
+BMW,X6,8_41,2012,SUV
+Audi,A5 Cabriolet,7_10,2009,Convertible
+Renault,Clio,75_2,2012,Hatchback
+Lexus,Rx Unspecified,48_24,2006,SUV
+Maserati,Granturismo,55_8,2012,Coupe
+Alfa Romeo,Spider,4_15,2008,Convertible
+Toyota,Land Cruiser,92_21,2016,SUV
+Mercedes-Benz,CLK,59_18,2008,Convertible
+Vauxhall,Antara,94_4,2008,Estate
+Honda,Civic,34_2,2000,Hatchback
+Land Rover,Defender 110,47_2,2006,SUV
+Ford,Grand C-Max,29_20,2017,MPV
+Kia,Sportage,43_13,2007,SUV
+Citroen,C3,18_8,2009,Hatchback
+Citroen,C5,18_15,2011,Saloon
+Vauxhall,Vivaro,94_24,2015,MPV
+Chevrolet,Lacetti,16_11,2007,Estate
+MINI,Clubman,54_1,2009,Estate
+Peugeot,206 SW,69_8,2006,Estate
+Nissan,Qashqai+2,64_34,2012,SUV
+Lexus,RX 400h,48_24,2007,SUV
+Bentley,Mulsanne,10_7,2016,Saloon
+Ford,Kuga,29_25,2015,SUV
+Vauxhall,Agila,94_2,2008,Hatchback
+BMW,X3,8_37,2009,SUV
+Porsche,911,71_4,2007,Coupe
+Vauxhall,Meriva,94_14,2013,MPV
+Mitsubishi,Eclipse Cross,62_7,2017,SUV
+BMW,2 Series,8_2,2015,Coupe
+Land Rover,Range Rover Evoque,47_14,2011,SUV
+Ford,Galaxy,29_19,2006,MPV
+Jaguar,XJ,39_8,2013,Saloon
+Peugeot,207 SW,69_11,2012,Estate
+Audi,A3,7_3,2015,Hatchback
+SKODA,Citigo,80_1,2013,Hatchback
+SEAT,Mii,79_11,2013,Hatchback
+Vauxhall,Zafira,94_27,2007,MPV
+Lexus,GS 450h,48_2,2012,Saloon
+Renault,Clio,75_2,2014,Hatchback
+Mercedes-Benz,M Class,59_27,2015,SUV
+Vauxhall,Tigra,94_21,2009,Convertible
+Nissan,Leaf,64_16,2011,Hatchback
+BMW,3 Series Gran Turismo,8_6,2013,Hatchback
+Mazda,CX-3,57_6,2015,SUV
+Nissan,Pixo,64_28,2012,Hatchback
+Audi,A1,7_1,2010,Hatchback
+Hyundai,i30,36_10,2016,Hatchback
+Honda,Integra,34_10,2000,Coupe
+SEAT,Mii,79_11,2015,Hatchback
+Audi,Q5,7_20,2016,SUV
+Ssangyong,Rexton,85_5,2009,SUV
+Mercedes-Benz,CLA Class,59_16,2015,Coupe
+Vauxhall,Corsa,94_9,2008,Hatchback
+Renault,Scenic,75_14,2008,MPV
+Audi,A1,7_1,2014,Hatchback
+Nissan,X-Trail,64_41,2013,SUV
+Ssangyong,Tivoli XLV,85_8,2016,SUV
+Toyota,Land Cruiser,92_21,2011,SUV
+Volkswagen,Tiguan,95_26,2009,SUV
+Fiat,Doblo,28_12,2015,Estate
+Mazda,Mazda3,57_11,2006,Hatchback
+Lexus,GS 450h,48_2,2009,Saloon
+Chevrolet,Captiva,16_5,2013,SUV
+Audi,A3 Cabriolet,7_4,2016,Convertible
+Volkswagen,Transporter Shuttle,95_31,2012,nan
+SKODA,Roomster,80_8,2012,MPV
+SEAT,Alhambra,79_1,2008,MPV
+Citroen,Berlingo Multispace,18_3,2003,MPV
+Ford,Tourneo Connect,29_34,2009,MPV
+Volkswagen,Scirocco,95_23,2015,Coupe
+Mitsubishi,L200,62_13,2016,Pickup
+Audi,A4 Allroad,7_6,2011,Estate
+Renault,Megane,75_12,2006,Hatchback
+Nissan,350 Z,64_1,2009,Convertible
+Mercedes-Benz,R Class,59_28,2008,MPV
+Ssangyong,Turismo,85_9,2014,MPV
+Volvo,S80,96_5,2008,Saloon
+Subaru,Tribeca,86_9,2007,SUV
+Mazda,Mazda5,57_12,2012,MPV
+Mercedes-Benz,GLE Class,59_25,2017,SUV
+Lotus,Exige,51_7,2016,Coupe
+Toyota,Corolla,92_11,2000,Hatchback
+Audi,S5,7_39,2014,Coupe
+Fiat,Talento,28_27,2016,nan
+Audi,Q3,7_19,2011,SUV
+Toyota,Corolla Verso,92_12,2003,MPV
+Renault,Scenic,75_14,2012,MPV
+Kia,Venga,43_16,2017,MPV
+Citroen,C4 Picasso,18_14,2016,MPV
+Lexus,IS 220d,48_8,2010,Saloon
+Audi,S3,7_35,2009,Hatchback
+Mercedes-Benz,SLK,59_32,2016,Convertible
+Mitsubishi,Colt Cabriolet,62_4,2007,Convertible
+BMW,5 Series,8_9,2007,Saloon
+Toyota,Auris,92_3,2007,Hatchback
+Bentley,Mulsanne,10_7,2012,Saloon
+Ford,Fusion,29_18,2003,Hatchback
+Peugeot,508,69_26,2012,Saloon
+Mercedes-Benz,CLA Class,59_16,2013,Coupe
+Volkswagen,Jetta,95_18,2017,Saloon
+Volkswagen,Transporter,95_30,2015,Combi Van
+Honda,FR-V,34_7,2006,MPV
+Hyundai,Santa Fe,36_20,2011,SUV
+SEAT,Altea,79_2,2015,MPV
+BMW,Z4,8_45,2008,Convertible
+Peugeot,107,69_3,2009,Hatchback
+Mitsubishi,Shogun,62_18,2015,SUV
+Jeep,Grand Cherokee,40_4,2007,SUV
+Citroen,C8,18_17,2003,MPV
+Hyundai,Tucson,36_24,2007,SUV
+Dodge,Avenger,26_1,2008,Saloon
+MINI,Coupe,54_5,2014,Coupe
+Nissan,Navara,64_20,2017,Pickup
+BMW,Z3M,8_44,2000,Convertible
+Honda,Insight,34_9,2012,Hatchback
+Maserati,Coupe,55_4,2003,Coupe
+Suzuki,Baleno,87_2,2017,Hatchback
+Mazda,CX-5,57_7,2013,SUV
+Nissan,Qashqai+2,64_34,2009,SUV
+BMW,3 Series,8_5,2006,Coupe
+Suzuki,Jimny,87_6,2015,SUV
+Volvo,S60,96_4,2003,Saloon
+Audi,A5,7_9,2008,Coupe
+Volkswagen,Touran,95_29,2017,MPV
+Vauxhall,Mokka X,94_16,2017,SUV
+Citroen,DS5,21_5,2013,Hatchback
+Kia,Sedona,43_10,2008,MPV
+Rover,75,78_3,2003,Saloon
+SKODA,Fabia,80_2,2010,Hatchback
+Ford,Kuga,29_25,2013,SUV
+Mitsubishi,L200,62_13,2006,Pickup
+Toyota,Voxy,92_42,2007,MPV
+Ford,Fiesta,29_13,2012,Hatchback
+Renault,Twingo,75_18,2015,Hatchback
+Volkswagen,Transporter Shuttle,95_31,2008,nan
+Subaru,Impreza,86_3,2014,Hatchback
+Jaguar,X-Type,39_5,2006,Saloon
+Nissan,NV200,64_22,2013,MPV
+Vauxhall,Meriva,94_14,2007,MPV
+Audi,Q7,7_21,2009,SUV
+MINI,Paceman,54_7,2014,Hatchback
+Subaru,BRZ,86_1,2017,Coupe
+Rolls-Royce,Phantom,77_4,2006,Limousine
+Mitsubishi,Shogun,62_18,2007,SUV
+BMW,X6,8_41,2008,SUV
+Jaguar,X-Type,39_5,2008,Saloon
+Peugeot,5008,69_25,2015,MPV
+Mitsubishi,Delica,62_6,2003,MPV
+Renault,Megane,75_12,2015,Hatchback
+Honda,HR-V,34_8,2015,SUV
+Hyundai,i30,36_10,2014,Hatchback
+Mitsubishi,L200,62_13,2003,Pickup
+BMW,1 Series,8_1,2008,Hatchback
+Toyota,RAV4,92_34,2012,SUV
+Ford,Mondeo,29_27,2015,Hatchback
+Nissan,Pixo,64_28,2010,Hatchback
+BMW,M5,8_32,2016,Saloon
+Chrysler,Ypsilon,17_10,2012,Hatchback
+Volkswagen,Transporter Sportline,95_32,2011,Combi Van
+Peugeot,5008,69_25,2016,MPV
+Bentley,Continental,10_5,2017,Convertible
+Vauxhall,Astra GTC,94_6,2015,Coupe
+Volvo,S60,96_4,2011,Saloon
+Mercedes-Benz,GLC Class,59_24,2016,Estate
+Audi,TT,7_46,2011,Coupe
+Porsche,Cayman,71_9,2011,Coupe
+Citroen,DS5,21_5,2017,Hatchback
+Ford,Grand C-Max,29_20,2012,MPV
+Mercedes-Benz,CLS,59_19,2016,Coupe
+Lexus,GS 450h,48_2,2007,Saloon
+Kia,Rio,43_9,2009,Hatchback
+Ssangyong,Korando,85_1,2014,SUV
+Toyota,Prius,92_30,2007,Hatchback
+Porsche,911,71_4,2016,Coupe
+Maserati,Ghibli,55_5,2015,Saloon
+Mitsubishi,Shogun,62_18,2013,SUV
+Mazda,B2500,57_3,2006,Pickup
+Nissan,Navara,64_20,2016,Pickup
+Ford,Focus CC,29_16,2009,Convertible
+Vauxhall,Zafira Tourer,94_28,2014,MPV
+SEAT,Toledo,79_12,2014,Hatchback
+Volkswagen,Golf Plus,95_16,2012,Hatchback
+Fiat,Scudo,28_22,2007,nan
+Land Rover,Range Rover,47_13,2014,SUV
+Hyundai,Coupe,36_3,2000,Coupe
+SEAT,Ateca,79_6,2017,SUV
+Audi,A8,7_16,2007,Saloon
+Renault,Modus,75_13,2006,Hatchback
+Subaru,Impreza,86_3,2008,Hatchback
+Renault,Modus,75_13,2010,Hatchback
+Mercedes-Benz,E Class,59_20,2013,Saloon
+Nissan,Micra C+C,64_18,2009,Convertible
+Audi,A6 Avant,7_11,2016,Estate
+Honda,CR-V,34_3,2007,SUV
+McLaren,570GT,58_3,2017,Coupe
+Volkswagen,up!,95_33,2015,Hatchback
+Isuzu,D-Max,38_2,2015,Pickup
+SEAT,Ibiza,79_9,2012,Hatchback
+Nissan,Juke,64_14,2014,SUV
+Ford,C-Max,29_2,2011,MPV
+Renault,Zoe,75_22,2017,Hatchback
+Volkswagen,Golf,95_15,2010,Hatchback
+Bentley,Continental,10_5,2014,Convertible
+Smart,fortwo,84_2,2012,Hatchback
+Audi,A1,7_1,2013,Hatchback
+Volkswagen,Caravelle,95_11,2017,MPV
+BMW,2 Series,8_2,2018,Coupe
+MG,MG3,53_2,2013,Hatchback
+Toyota,Yaris,92_44,2006,Hatchback
+Suzuki,Wagon R,87_14,2000,Hatchback
+Lotus,Evora,51_6,2014,Coupe
+Suzuki,Grand Vitara,87_4,2010,SUV
+BMW,7 Series,8_14,2016,Saloon
+Ford,Focus,29_14,2017,Hatchback
+Mazda,Mazda3,57_11,2007,Hatchback
+Volkswagen,Polo,95_22,2003,Hatchback
+Mazda,Mazda2,57_10,2014,Hatchback
+Renault,Laguna,75_11,2009,Hatchback
+Jaguar,XKR,39_11,2000,Coupe
+Infiniti,QX70,37_11,2015,SUV
+Citroen,Berlingo Multispace,18_3,2016,MPV
+Vauxhall,Meriva,94_14,2016,MPV
+Porsche,Cayman,71_9,2009,Coupe
+Audi,S8,7_43,2000,Saloon
+Hyundai,ix35,36_16,2013,SUV
+Jaguar,XKR,39_11,2012,Coupe
+Vauxhall,Zafira Tourer,94_28,2012,MPV
+SKODA,Superb,80_9,2013,Hatchback
+Volkswagen,Golf SV,95_17,2015,Hatchback
+Volvo,XC90,96_18,2012,SUV
+Lexus,IS 300,48_8,2016,Saloon
+BMW,7 Series,8_14,2003,Saloon
+Vauxhall,Zafira,94_27,2003,MPV
+Vauxhall,Meriva,94_14,2015,MPV
+Volkswagen,Jetta,95_18,2008,Saloon
+Volkswagen,Tiguan,95_26,2011,SUV
+Honda,CR-V,34_3,2012,SUV
+Volkswagen,Caddy Maxi Life,95_8,2012,MPV
+Nissan,Micra,64_17,2008,Hatchback
+Fiat,Seicento,28_24,2003,Hatchback
+Nissan,Pulsar,64_32,2015,Hatchback
+Mercedes-Benz,SL Class,59_30,2013,Convertible
+Mitsubishi,Outlander,62_16,2015,SUV
+Mazda,Mazda5,57_12,2007,MPV
+Chevrolet,Kalos,16_10,2007,Hatchback
+Audi,RS5,7_30,2012,Coupe
+Renault,Twingo,75_18,2009,Hatchback
+Chevrolet,Captiva,16_5,2010,SUV
+Citroen,DS4,21_3,2017,Hatchback
+Ford,Focus C-Max,29_15,2003,MPV
+Mazda,CX-3,57_6,2017,SUV
+MG,MG3,53_2,2014,Hatchback
+MINI,Clubvan,54_2,2013,Panel Van
+Tesla,Model S,90_1,2016,Saloon
+Kia,Pro_Cee'd,43_8,2008,Hatchback
+Peugeot,108,69_4,2015,Hatchback
+Suzuki,Jimny,87_6,2017,SUV
+Kia,Sorento,43_11,2016,SUV
+BMW,Alpina D3,8_20,2009,Saloon
+SKODA,Yeti,80_10,2014,SUV
+Mercedes-Benz,E Class,59_20,2015,Saloon
+Peugeot,207 CC,69_10,2012,Convertible
+Jeep,Cherokee,40_1,2017,SUV
+Volkswagen,Beetle,95_3,2017,Convertible
+Volkswagen,Passat,95_20,2017,Estate
+Audi,R8,7_23,2007,Coupe
+Ford,Ka+,29_24,2016,Hatchback
+Fiat,Doblo,28_12,2017,Estate
+Ford,Kuga,29_25,2016,SUV
+Chevrolet,Orlando,16_13,2011,MPV
+Lotus,Evora,51_6,2010,Coupe
+Audi,R8,7_23,2015,Coupe
+Great Wall,Steed,32_1,2012,Pickup
+Toyota,Prius+,92_31,2013,Estate
+Renault,Clio,75_2,2011,Hatchback
+Vauxhall,Ampera,94_3,2013,Hatchback
+Kia,Sorento,43_11,2008,SUV
+Honda,Insight,34_9,2013,Hatchback
+Renault,Scenic,75_14,2011,MPV
+Mercedes-Benz,SL Class,59_30,2010,Convertible
+Ssangyong,Rodius,85_6,2009,MPV
+Toyota,Avensis,92_4,2011,Estate
+BMW,6 Series,8_11,2013,Convertible
+Jaguar,XF,39_7,2016,Saloon
+Lexus,LS 600h,48_15,2010,Saloon
+Volkswagen,Beetle,95_3,2007,Convertible
+BMW,X3,8_37,2013,SUV
+McLaren,540C,58_2,2017,Coupe
+Isuzu,D-Max,38_2,2016,Pickup
+Citroen,C5,18_15,2012,Saloon
+Volvo,XC90,96_18,2011,SUV
+Hyundai,Ioniq,36_14,2016,Hatchback
+Renault,Twingo,75_18,2013,Hatchback
+Volkswagen,Caddy Maxi,95_7,2013,Panel Van
+Fiat,500C,28_3,2016,Convertible
+McLaren,12C,58_1,2013,Coupe
+Fiat,Punto,28_19,2017,Hatchback
+Audi,A4 Avant,7_7,2016,Estate
+Chevrolet,Camaro,16_4,2017,Coupe
+Kia,Sorento,43_11,2011,SUV
+Audi,TTS,7_48,2008,Coupe
+Vauxhall,Astra GTC,94_6,2012,Coupe
+BMW,6 Series Gran Coupe,8_12,2016,Coupe
+Subaru,Impreza,86_3,2006,Hatchback
+BMW,X1,8_35,2015,SUV
+Vauxhall,ADAM,94_1,2017,Hatchback
+Mercedes-Benz,S Class,59_29,2014,Saloon
+Nissan,Micra,64_17,2012,Hatchback
+Peugeot,206,69_6,2000,Hatchback
+Audi,RS6,7_31,2003,Saloon
+Toyota,Auris,92_3,2011,Hatchback
+SEAT,Exeo,79_8,2011,Estate
+Audi,TT,7_46,2000,Coupe
+BMW,5 Series Gran Turismo,8_10,2011,Hatchback
+Lexus,RX 450h,48_24,2016,SUV
+Volkswagen,Beetle,95_3,2011,Convertible
+Mercedes-Benz,B Class,59_11,2008,Hatchback
+Jeep,Commander,40_2,2009,SUV
+Jaguar,XK8,39_10,2000,Convertible
+Ssangyong,Turismo,85_9,2015,MPV
+Jeep,Renegade,40_6,2016,SUV
+Ford,Ranger,29_30,2006,Pickup
+Hyundai,Santa Fe,36_20,2012,SUV
+Lexus,RX 450h,48_24,2015,SUV
+SKODA,Fabia,80_2,2000,Hatchback
+Volvo,V50,96_9,2011,Estate
+SKODA,Citigo,80_1,2016,Hatchback
+Renault,Espace,75_3,2008,MPV
+Kia,Rio,43_9,2003,Hatchback
+BMW,2 Series Gran Tourer,8_4,2016,MPV
+Toyota,Verso,92_40,2017,MPV
+Ssangyong,Rexton,85_5,2017,SUV
+Maserati,Quattroporte,55_10,2015,Saloon
+Audi,A6 Allroad,7_11,2013,Estate
+MG,MG3,53_2,2017,Hatchback
+SKODA,Fabia,80_2,2015,Hatchback
+Fiat,Abarth,28_7,2014,Hatchback
+Nissan,Elgrand,64_8,2015,MPV
+Audi,A1,7_1,2016,Hatchback
+Porsche,911,71_4,2014,Coupe
+Citroen,C8,18_17,2007,MPV
+Audi,S7,7_42,2015,Hatchback
+Mazda,Mazda6,57_13,2003,Saloon
+Kia,Venga,43_16,2010,MPV
+Fiat,Qubo,28_21,2009,MPV
+BMW,X5,8_39,2014,SUV
+Ford,Galaxy,29_19,2017,MPV
+Lamborghini,Gallardo,45_3,2007,Coupe
+Subaru,XV,86_11,2012,SUV
+Mercedes-Benz,V Class,59_36,2016,MPV
+Nissan,Pathfinder,64_24,2008,MPV
+BMW,X3,8_37,2007,SUV
+Toyota,Corolla Verso,92_12,2007,MPV
+Peugeot,Traveller,69_37,2015,MPV
+Audi,A4 Avant,7_7,2012,Estate
+Citroen,Dispatch,18_18,2012,Combi Van
+Smart,forfour,84_1,2016,Hatchback
+Audi,A4 Avant,7_7,2003,Estate
+Volkswagen,Tiguan Allspace,95_27,2017,SUV
+Vauxhall,Astra GTC,94_6,2016,Coupe
+Kia,Pro_Cee'd,43_8,2015,Hatchback
+Citroen,Saxo,18_26,2000,Hatchback
+Jeep,Patriot,40_5,2008,SUV
+Mercedes-Benz,G Class,59_21,2015,SUV
+Lexus,NX 300h,48_18,2014,Estate
+Volkswagen,Transporter Shuttle,95_31,2016,nan
+Volkswagen,Golf,95_15,2012,Hatchback
+Vauxhall,Astra,94_5,2016,Hatchback
+Ford,Fiesta,29_13,2017,Hatchback
+BMW,2 Series Active Tourer,8_3,2015,MPV
+Hyundai,ix20,36_15,2011,Hatchback
+Citroen,DS4,21_3,2012,Hatchback
+Fiat,124 Spider,28_1,2016,Convertible
+Mercedes-Benz,SLS,59_34,2010,Convertible
+Jaguar,F-Type,39_3,2017,Convertible
+Citroen,C3 Picasso,18_10,2009,MPV
+BMW,M3,8_30,2017,Coupe
+Ford,Ranger,29_30,2013,Pickup
+Kia,Picanto,43_7,2008,Hatchback
+Vauxhall,Vivaro,94_24,2016,MPV
+SKODA,Octavia,80_5,2014,Hatchback
+Ford,Tourneo Connect,29_34,2015,MPV
+Peugeot,RCZ,69_36,2014,Coupe
+SEAT,Leon,79_10,2010,Hatchback
+Jeep,Patriot,40_5,2009,SUV
+Mazda,CX-3,57_6,2016,SUV
+Toyota,Verso S,92_41,2011,MPV
+Peugeot,Partner Tepee,69_35,2013,MPV
+Porsche,911,71_4,2015,Coupe
+Nissan,Juke,64_14,2011,SUV
+Honda,Stepwagon,34_17,2007,MPV
+Infiniti,FX,37_2,2013,SUV
+Lexus,RC 200t,48_21,2016,Coupe
+Audi,S5,7_39,2008,Coupe
+Lexus,IS 200,48_8,2015,Saloon
+Smart,fortwo,84_2,2006,Hatchback
+Kia,Picanto,43_7,2006,Hatchback
+Mitsubishi,Colt,62_3,2009,Hatchback
+Mercedes-Benz,R Class,59_28,2006,MPV
+Renault,Megane,75_12,2000,Hatchback
+BMW,Z4,8_45,2011,Convertible
+Land Rover,Range Rover Velar,47_16,2017,SUV
+Toyota,Hilux,92_19,2010,nan
+Audi,A6 Allroad,7_11,2014,Estate
+Mercedes-Benz,CLS,59_19,2011,Coupe
+Mercedes-Benz,E Class,59_20,2000,Saloon
+Citroen,C4 Picasso,18_14,2017,MPV
+Audi,A5,7_9,2010,Coupe
+MG,ZS,53_7,2003,SUV
+Audi,S4 Avant,7_37,2011,Estate
+Audi,A5,7_9,2009,Coupe
+Vauxhall,Agila,94_2,2012,Hatchback
+Suzuki,Grand Vitara,87_4,2009,SUV
+Subaru,BRZ,86_1,2014,Coupe
+Volvo,V70,96_12,2014,Estate
+Lamborghini,Murcielago,45_5,2007,Coupe
+Kia,Sportage,43_13,2016,SUV
+Porsche,Panamera,71_11,2011,Hatchback
+Volkswagen,Sharan,95_24,2012,MPV
+SEAT,Alhambra,79_1,2007,MPV
+Subaru,WRX STI,86_10,2015,Saloon
+Bentley,Bentayga,10_3,2017,SUV
+Smart,fortwo,84_2,2014,Hatchback
+Lexus,RX 450h,48_24,2010,SUV
+SEAT,Alhambra,79_1,2011,MPV
+Volkswagen,Caravelle,95_11,2011,MPV
+Volvo,S90,96_6,2017,Saloon
+Fiat,Multipla,28_17,2003,MPV
+Lexus,NX Unspecified,48_18,2014,Estate
+Volkswagen,CC,95_12,2012,Saloon
+MINI,Convertible,54_3,2009,Convertible
+Renault,Fluence,75_4,2012,Saloon
+Chrysler,Grand Voyager,17_4,2010,MPV
+Suzuki,SX4,87_11,2014,Hatchback
+Toyota,Avensis,92_4,2017,Estate
+Audi,TTS,7_48,2015,Coupe
+Honda,CR-V,34_3,2017,SUV
+BMW,X6,8_41,2015,SUV
+Audi,A5 Cabriolet,7_10,2014,Convertible
+Ford,Galaxy,29_19,2010,MPV
+Volkswagen,Golf,95_15,2006,Hatchback
+SEAT,Alhambra,79_1,2013,MPV
+Fiat,500,28_2,2012,Hatchback
+Audi,A6 Avant,7_11,2014,Estate
+Volvo,C30,96_1,2011,Coupe
+Vauxhall,Insignia,94_13,2010,Hatchback
+Lexus,NX 300h,48_18,2016,Estate
+Audi,RS4 Cabriolet,7_28,2007,Convertible
+SEAT,Altea,79_2,2006,MPV
+Toyota,Avensis,92_4,2008,Estate
+Renault,Modus,75_13,2007,Hatchback
+Ssangyong,Korando Sports,85_2,2015,Pickup
+Vauxhall,Vivaro,94_24,2013,MPV
+Volkswagen,Tiguan,95_26,2015,SUV
+Mercedes-Benz,B Class,59_11,2012,Hatchback
+Hyundai,ix20,36_15,2010,Hatchback
+Lotus,Evora,51_6,2009,Coupe
+Toyota,Land Cruiser,92_21,2015,SUV
+Lexus,IS 250,48_8,2009,Saloon
+SEAT,Altea XL,79_3,2007,MPV
+Mercedes-Benz,C Class,59_12,2015,Estate
+SKODA,Roomster,80_8,2006,MPV
+SKODA,Rapid Spaceback,80_7,2015,Hatchback
+Honda,CR-V,34_3,2015,SUV
+Mitsubishi,ASX,62_1,2016,SUV
+Lexus,IS 300,48_8,2003,Saloon
+Audi,Q5,7_20,2017,SUV
+Mercedes-Benz,Amg Gt,59_10,2016,Coupe
+Audi,S7,7_42,2013,Hatchback
+Rolls-Royce,Phantom,77_4,2014,Limousine
+MINI,Paceman,54_7,2015,Hatchback
+Vauxhall,VXR8,94_26,2009,Saloon
+Ferrari,Dino,27_14,2013,Coupe
+Mazda,CX-5,57_7,2017,SUV
+Land Rover,Range Rover,47_13,2010,SUV
+Mitsubishi,L200,62_13,2017,Pickup
+Toyota,Yaris,92_44,2013,Hatchback
+Chevrolet,Kalos,16_10,2006,Hatchback
+Nissan,X-Trail,64_41,2009,SUV
+Volvo,V50,96_9,2006,Estate
+Citroen,Berlingo,18_2,2009,MPV
+Fiat,500L,28_4,2014,MPV
+Honda,Insight,34_9,2009,Hatchback
+Kia,Carens,43_1,2011,MPV
+Mercedes-Benz,B Class,59_11,2009,Hatchback
+Nissan,Patrol,64_25,2003,Estate
+Nissan,Leaf,64_16,2015,Hatchback
+Land Rover,Discovery 4,47_9,2009,SUV
+Nissan,NV200,64_22,2010,MPV
+Audi,RS3,7_25,2015,Saloon
+Kia,Sorento,43_11,2015,SUV
+Alfa Romeo,MiTo,4_14,2016,Hatchback
+Ford,S-Max,29_31,2013,MPV
+Noble,M600,65_2,2013,Coupe
+Vauxhall,Zafira Tourer,94_28,2016,MPV
+Hyundai,ix20,36_15,2017,Hatchback
+Bentley,Bentayga,10_3,2016,SUV
+Audi,A3,7_3,2013,Hatchback
+Peugeot,2008,69_5,2017,SUV
+Audi,quattro,7_22,2013,Estate
+Renault,Laguna,75_11,2010,Hatchback
+Vauxhall,ADAM,94_1,2014,Hatchback
+Toyota,Avensis,92_4,2003,Estate
+MINI,Hatch,54_6,2003,Hatchback
+Nissan,GT-R,64_13,2015,Coupe
+Kia,Pro_Cee'd,43_8,2013,Hatchback
+MEV,Exocet,52_1,2017,Coupe
+Porsche,Boxster,71_6,2006,Convertible
+BMW,M3,8_30,2016,Coupe
+Ferrari,California,27_13,2009,Convertible
+Kia,Carens,43_1,2017,MPV
+Citroen,DS5,21_5,2015,Hatchback
+Vauxhall,ADAM,94_1,2008,Hatchback
+Citroen,C2,18_7,2006,Hatchback
+Lexus,IS 220d,48_8,2006,Saloon
+Nissan,Almera Tino,64_4,2003,MPV
+Nissan,Micra,64_17,2013,Hatchback
+Vauxhall,Antara,94_4,2013,Estate
+Toyota,Hilux,92_19,2007,nan
+Peugeot,Partner Tepee,69_35,2015,MPV
+Audi,Q7,7_21,2008,SUV
+Porsche,718 Cayman,71_3,2017,Coupe
+Audi,A7,7_15,2013,Hatchback
+Volvo,V70,96_12,2003,Estate
+Ferrari,599,27_10,2011,Coupe
+Vauxhall,Insignia,94_13,2013,Hatchback
+Corvette,Stingray,19_3,2014,Coupe
+SEAT,Ibiza,79_9,2009,Hatchback
+Kia,Pro_Cee'd,43_8,2011,Hatchback
+Kia,Sorento,43_11,2006,SUV
+BMW,X1,8_35,2018,SUV
+Subaru,Forester,86_2,2017,SUV
+Jaguar,XE,39_6,2016,Saloon
+Ford,Fusion,29_18,2009,Hatchback
+Renault,Trafic,75_17,2008,Combi Van
+Hyundai,i40,36_12,2011,Estate
+Honda,Civic,34_2,2009,Hatchback
+Volkswagen,Golf Plus,95_16,2011,Hatchback
+Audi,A4,7_5,2008,Saloon
+MINI,Coupe,54_5,2016,Coupe
+Audi,Q7,7_21,2013,SUV
+Citroen,C4 Cactus,18_13,2014,Hatchback
+Peugeot,RCZ,69_36,2010,Coupe
+Mitsubishi,Colt,62_3,2007,Hatchback
+Nissan,Leaf,64_16,2013,Hatchback
+Vauxhall,Cascada,94_7,2016,Convertible
+SKODA,Yeti,80_10,2016,SUV
+Nissan,Micra C+C,64_18,2008,Convertible
+Jaguar,S-Type,39_4,2003,Saloon
+Suzuki,Celerio,87_3,2016,Hatchback
+Mazda,Mazda2,57_10,2011,Hatchback
+BMW,5 Series,8_9,2012,Saloon
+Daihatsu,Sirion,24_7,2007,Hatchback
+Volvo,XC90,96_18,2003,SUV
+MINI,Convertible,54_3,2006,Convertible
+Peugeot,RCZ,69_36,2012,Coupe
+Suzuki,SX4,87_11,2006,Hatchback
+Ford,Mondeo,29_27,2006,Hatchback
+Peugeot,1007,69_1,2007,Hatchback
+Citroen,SpaceTourer,18_27,2016,MPV
+Peugeot,508 SW,69_27,2012,Estate
+Infiniti,Q60,37_7,2017,Coupe
+BMW,X5M,8_40,2010,SUV
+Fiat,Stilo,28_26,2003,Hatchback
+Mercedes-Benz,B Class,59_11,2015,Hatchback
+Volkswagen,Sharan,95_24,2007,MPV
+Audi,RS6 Avant,7_32,2014,Estate
+BMW,X5,8_39,2012,SUV
+Hyundai,i30,36_10,2011,Hatchback
+Peugeot,106,69_2,2003,Hatchback
+Kia,Sedona,43_10,2003,MPV
+Nissan,Qashqai,64_33,2011,SUV
+Kia,Niro,43_5,2017,Estate
+Subaru,Impreza,86_3,2017,Hatchback
+Vauxhall,Astra,94_5,2010,Hatchback
+Daihatsu,Terios,24_8,2007,SUV
+Hyundai,Santa Fe,36_20,2014,SUV
+Volvo,C70,96_2,2008,Convertible
+Nissan,X-Trail,64_41,2006,SUV
+Mercedes-Benz,SL Class,59_30,2015,Convertible
+Land Rover,Discovery,47_6,2003,SUV
+Vauxhall,Ampera,94_3,2014,Hatchback
+Vauxhall,Mokka,94_15,2015,Hatchback
+Toyota,Avensis,92_4,2010,Estate
+Porsche,911,71_4,2003,Coupe
+BMW,X3,8_37,2015,SUV
+BMW,X6,8_41,2016,SUV
+Subaru,WRX STI,86_10,2016,Saloon
+Infiniti,G,37_3,2009,Convertible
+Land Rover,Range Rover Sport,47_15,2007,SUV
+Fiat,Fullback,28_14,2016,Pickup
+Ford,Focus,29_14,2009,Hatchback
+Lexus,LS 430,48_15,2003,Saloon
+MINI,Hatch,54_6,2007,Hatchback
+Ford,Ranger,29_30,2015,Pickup
+Peugeot,4007,69_21,2011,SUV
+Jaguar,S-Type,39_4,2006,Saloon
+Peugeot,508 SW,69_27,2015,Estate
+Hyundai,i40,36_12,2014,Estate
+MINI,Countryman,54_4,2011,Hatchback
+Ford,Ranger,29_30,2010,Pickup
+Audi,A5 Cabriolet,7_10,2011,Convertible
+Chrysler,Ypsilon,17_10,2013,Hatchback
+Volkswagen,Golf,95_15,2015,Hatchback
+Citroen,Dispatch,18_18,2010,Combi Van
+Kia,Venga,43_16,2016,MPV
+Citroen,Berlingo,18_2,2015,MPV
+Kia,Rio,43_9,2008,Hatchback
+Suzuki,Vitara,87_13,2015,SUV
+Alfa Romeo,Brera,4_9,2006,Coupe
+Ford,Mondeo,29_27,2014,Hatchback
+Volkswagen,Sharan,95_24,2017,MPV
+Mitsubishi,ASX,62_1,2014,SUV
+Lexus,RX 400h,48_24,2008,SUV
+Volkswagen,Polo,95_22,2000,Hatchback
+Ferrari,FF,27_19,2012,Coupe
+Renault,Zoe,75_22,2013,Hatchback
+Citroen,C3,18_8,2016,Hatchback
+Citroen,C4 Picasso,18_14,2011,MPV
+Mercedes-Benz,E Class,59_20,2011,Saloon
+Toyota,Verso,92_40,2015,MPV
+Citroen,DS3,21_1,2015,Hatchback
+Toyota,Estima,92_14,2013,MPV
+Fiat,Bravo,28_10,2008,Hatchback
+Ford,Ranger,29_30,2009,Pickup
+Citroen,C3 Pluriel,18_11,2006,Convertible
+Land Rover,Discovery 4,47_9,2015,SUV
+Nissan,Tiida,64_40,2009,Saloon
+Audi,A3,7_3,2006,Hatchback
+Nissan,Note,64_21,2010,Hatchback
+Volvo,XC70,96_17,2007,Estate
+Kia,Soul,43_12,2011,Hatchback
+Mercedes-Benz,R Class,59_28,2009,MPV
+Subaru,Impreza,86_3,2009,Hatchback
+Kia,Venga,43_16,2013,MPV
+Volkswagen,CC,95_12,2010,Saloon
+Volkswagen,Amarok,95_1,2014,Hatchback
+Kia,Stinger,43_14,2017,Hatchback
+Saab,9-5,81_3,2006,Saloon
+Audi,A3,7_3,2017,Hatchback
+Citroen,C3,18_8,2012,Hatchback
+Audi,TT,7_46,2014,Coupe
+Nissan,NV200,64_22,2011,MPV
+BMW,7 Series,8_14,2007,Saloon
+SEAT,Mii,79_11,2017,Hatchback
+Jaguar,XE,39_6,2017,Saloon
+Mercedes-Benz,C Class,59_12,2011,Estate
+Audi,RS5,7_30,2009,Coupe
+Ford,Tourneo Connect,29_34,2003,MPV
+Volvo,XC60,96_16,2013,SUV
+Mercedes-Benz,GLC Class,59_24,2015,Estate
+Jaguar,XJ,39_8,2014,Saloon
+Kia,Carens,43_1,2003,MPV
+Citroen,C5,18_15,2015,Saloon
+Vauxhall,Zafira,94_27,2013,MPV
+Citroen,C4,18_12,2016,Hatchback
+Alfa Romeo,4C,4_7,2016,Convertible
+BMW,Z4,8_45,2012,Convertible
+Nissan,Navara,64_20,2012,Pickup
+Honda,Civic,34_2,2010,Hatchback
+Suzuki,Grand Vitara,87_4,2006,SUV
+Citroen,C-Crosser,18_4,2009,SUV
+MINI,Coupe,54_5,2015,Coupe
+Toyota,Hilux,92_19,2009,nan
+Honda,Element,34_5,2003,MPV
+Citroen,C3,18_8,2011,Hatchback
+BMW,M3,8_30,2015,Coupe
+Audi,S3,7_35,2010,Hatchback
+Porsche,Boxster,71_6,2009,Convertible
+Lamborghini,Gallardo,45_3,2008,Coupe
+Renault,Kadjar,75_8,2017,SUV
+Renault,Twingo,75_18,2008,Hatchback
+BMW,X5M,8_40,2008,SUV
+BMW,X5,8_39,2011,SUV
+Hyundai,Tucson,36_24,2017,SUV
+Citroen,C3 Picasso,18_10,2010,MPV
+Peugeot,Partner Tepee,69_35,2009,MPV
+Porsche,Boxster,71_6,2015,Convertible
+Jaguar,E-PACE,39_1,2017,SUV
+Honda,CR-V,34_3,2011,SUV
+Ford,Ranger,29_30,2007,Pickup
+Chevrolet,Orlando,16_13,2012,MPV
+Audi,A6 Unspecified,7_11,2008,Estate
+Toyota,Verso,92_40,2010,MPV
+Peugeot,3008,69_13,2009,SUV
+Toyota,Hilux,92_19,2017,nan
+Kia,Venga,43_16,2012,MPV
+Jeep,Commander,40_2,2007,SUV
+Mercedes-Benz,C Class,59_12,2014,Estate
+Land Rover,Freelander 2,47_12,2006,SUV
+Vauxhall,Astra GTC,94_6,2017,Coupe
+Daihatsu,Terios,24_8,2003,SUV
+Peugeot,Expert Tepee,69_32,2012,MPV
+Isuzu,Rodeo,38_3,2003,Pickup
+Volvo,C30,96_1,2008,Coupe
+Volvo,C30,96_1,2009,Coupe
+SKODA,Rapid Spaceback,80_7,2016,Hatchback
+Mazda,Mazda6,57_13,2014,Saloon
+Volvo,C70,96_2,2006,Convertible
+Porsche,Cayenne,71_8,2014,SUV
+Honda,S2000,34_16,2003,Convertible
+Bentley,Mulsanne,10_7,2011,Saloon
+Ford,Kuga,29_25,2011,SUV
+Hyundai,i800,36_13,2012,MPV
+BMW,M3,8_30,2003,Coupe
+Ferrari,458,27_6,2014,Coupe
+Audi,S4 Avant,7_37,2003,Estate
+Mercedes-Benz,CL,59_15,2000,Coupe
+Renault,Clio,75_2,2017,Hatchback
+Mazda,Mazda3,57_11,2015,Hatchback
+Mazda,Mazda3,57_11,2008,Hatchback
+Audi,A6 Avant,7_11,2012,Estate
+Nissan,Qashqai,64_33,2015,SUV
+Fiat,Tipo,28_28,2016,Hatchback
+BMW,i8,8_28,2017,Coupe
+Land Rover,Discovery 4,47_9,2014,SUV
+Vauxhall,Astra,94_5,2013,Hatchback
+Alfa Romeo,Giulietta,4_11,2015,Hatchback
+MG,MGF,53_4,2000,Convertible
+Citroen,Xsara Picasso,18_30,2010,MPV
+Audi,S4 Avant,7_37,2006,Estate
+Tesla,Model S,90_1,2017,Saloon
+Ford,S-Max,29_31,2008,MPV
+Peugeot,4007,69_21,2008,SUV
+Jeep,Grand Cherokee,40_4,2017,SUV
+Audi,A7,7_15,2011,Hatchback
+BMW,X4,8_38,2014,SUV
+Hyundai,Santa Fe,36_20,2010,SUV
+Nissan,Pixo,64_28,2011,Hatchback
+Citroen,Grand C4 Picasso,18_24,2011,MPV
+Rolls-Royce,Dawn,77_2,2016,Convertible
+Renault,Grand Scenic,75_7,2015,MPV
+Fiat,500,28_2,2009,Hatchback
+Kia,Sorento,43_11,2003,SUV
+Audi,S4 Avant,7_37,2012,Estate
+Volvo,S60,96_4,2013,Saloon
+Audi,Q7,7_21,2014,SUV
+Subaru,Justy,86_4,2008,Hatchback
+Volvo,V40,96_7,2014,Hatchback
+Land Rover,Range Rover,47_13,2007,SUV
+Subaru,Impreza,86_3,2012,Hatchback
+Kia,Optima,43_6,2017,Saloon
+Volkswagen,Phaeton,95_21,2010,Saloon
+SKODA,Roomster,80_8,2007,MPV
+Ferrari,360,27_2,2000,Coupe
+Kia,Cee'd,43_2,2012,Estate
+Ssangyong,Korando Sports,85_2,2013,Pickup
+Ferrari,458,27_6,2010,Coupe
+Maserati,Granturismo,55_8,2015,Coupe
+Aston Martin,DBS,6_5,2009,Convertible
+Audi,RS4,7_26,2007,Saloon
+Mazda,Mazda5,57_12,2010,MPV
+BMW,6 Series Gran Coupe,8_12,2018,Coupe
+Ford,Mondeo,29_27,2012,Hatchback
+Peugeot,108,69_4,2014,Hatchback
+BMW,Z4M,8_46,2007,Coupe
+SKODA,Superb,80_9,2010,Hatchback
+Mercedes-Benz,CLS,59_19,2012,Coupe
+Honda,Civic,34_2,2011,Hatchback
+Land Rover,Discovery 3,47_8,2009,SUV
+Volvo,XC90,96_18,2006,SUV
+Ford,B-Max,29_1,2017,MPV
+Chrysler,PT Cruiser,17_7,2007,Hatchback
+Volkswagen,Transporter Sportline,95_32,2014,Combi Van
+BMW,X6,8_41,2010,SUV
+Toyota,RAV4,92_34,2016,SUV
+Ford,Galaxy,29_19,2015,MPV
+Hyundai,Getz,36_6,2007,Hatchback
+Peugeot,308,69_18,2007,Hatchback
+BMW,X6,8_41,2017,SUV
+Audi,A4 Avant,7_7,2007,Estate
+Volvo,XC60,96_16,2008,SUV
+Volkswagen,Passat,95_20,2014,Estate
+Citroen,C4 Cactus,18_13,2016,Hatchback
+Volkswagen,Passat,95_20,2000,Estate
+MG,MG3,53_2,2016,Hatchback
+Nissan,Pulsar,64_32,2014,Hatchback
+Kia,Soul,43_12,2010,Hatchback
+Fiat,500,28_2,2008,Hatchback
+Nissan,Micra,64_17,2017,Hatchback
+Volvo,S40,96_3,2006,Saloon
+Mercedes-Benz,Amg Gt,59_10,2017,Coupe
+Hyundai,i800,36_13,2010,MPV
+BMW,3 Series,8_5,2007,Coupe
+Audi,A8,7_16,2010,Saloon
+Chrysler,300C,17_1,2012,Estate
+Toyota,Auris,92_3,2014,Hatchback
+Kia,Pro_Cee'd,43_8,2014,Hatchback
+Subaru,Forester,86_2,2011,SUV
+Nissan,X-Trail,64_41,2012,SUV
+Peugeot,5008,69_25,2017,MPV
+Infiniti,Vettel,37_12,2013,SUV
+Volkswagen,Sharan,95_24,2008,MPV
+Peugeot,508 SW,69_27,2011,Estate
+Ford,C-Max,29_2,2009,MPV
+Lamborghini,Aventador,45_1,2015,Convertible
+Chevrolet,Aveo,16_2,2009,Hatchback
+Lexus,IS 300,48_8,2013,Saloon
+Subaru,XV,86_11,2013,SUV
+Renault,Kangoo,75_9,2000,MPV
+Ssangyong,Rexton,85_5,2011,SUV
+Peugeot,2008,69_5,2015,SUV
+Ford,Fiesta,29_13,2009,Hatchback
+Volkswagen,Passat,95_20,2009,Estate
+Volvo,XC70,96_17,2014,Estate
+Chrysler,Crossfire,17_2,2006,Convertible
+Ferrari,599,27_10,2008,Coupe
+Alfa Romeo,MiTo,4_14,2015,Hatchback
+Citroen,C6,18_16,2006,Saloon
+Volkswagen,Caddy Maxi Life,95_8,2013,MPV
+Toyota,Auris,92_3,2009,Hatchback
+BMW,M4,8_31,2016,Coupe
+Audi,S5,7_39,2015,Coupe
+Ford,Mondeo,29_27,2016,Hatchback
+Ferrari,599,27_10,2007,Coupe
+Suzuki,Grand Vitara,87_4,2008,SUV
+Nissan,GT-R,64_13,2009,Coupe
+Honda,CR-Z,34_4,2010,Coupe
+Vauxhall,Astra,94_5,2007,Hatchback
+BMW,Z3,8_43,2000,Convertible
+Volvo,V70,96_12,2006,Estate
+Toyota,AYGO,92_6,2016,Hatchback
+Abarth,124 Spider,2_1,2017,Coupe
+SKODA,Rapid,80_6,2013,Hatchback
+Mercedes-Benz,GLS Class,59_26,2015,SUV
+Ford,S-Max,29_31,2015,MPV
+Jaguar,XJ,39_8,2011,Saloon
+BMW,Alpina D3,8_20,2007,Saloon
+Nissan,Qashqai+2,64_34,2011,SUV
+Audi,A5,7_9,2007,Coupe
+Bentley,Continental,10_5,2011,Convertible
+SKODA,Rapid,80_6,2014,Hatchback
+Volvo,C70,96_2,2003,Convertible
+Volvo,V40,96_7,2015,Hatchback
+Citroen,Grand C4 Picasso,18_24,2012,MPV
+Porsche,911,71_4,2009,Coupe
+Infiniti,Q30,37_5,2017,Hatchback
+Peugeot,iOn,69_33,2012,Hatchback
+Isuzu,Rodeo,38_3,2011,Pickup
+Subaru,Outback,86_7,2011,Estate
+Nissan,X-Trail,64_41,2016,SUV
+BMW,X3,8_37,2008,SUV
+BMW,X6,8_41,2014,SUV
+Suzuki,Kizashi,87_7,2012,Saloon
+SKODA,Octavia,80_5,2015,Hatchback
+Suzuki,SX4,87_11,2012,Hatchback
+Volkswagen,Amarok,95_1,2016,Hatchback
+Volvo,C70,96_2,2000,Convertible
+Renault,Captur,75_1,2017,SUV
+Saab,9-5,81_3,2010,Saloon
+Mercedes-Benz,S Class,59_29,2016,Saloon
+Volvo,XC70,96_17,2016,Estate
+Citroen,C4 Picasso,18_14,2008,MPV
+Citroen,DS3,21_1,2011,Hatchback
+Kia,Sportage,43_13,2008,SUV
+Mercedes-Benz,CLK,59_18,2003,Convertible
+Mercedes-Benz,SL Class,59_30,2017,Convertible
+Volkswagen,Tiguan,95_26,2010,SUV
+Peugeot,1007,69_1,2006,Hatchback
+Mitsubishi,Mirage,62_15,2013,Hatchback
+Nissan,GT-R,64_13,2016,Coupe
+BMW,X1,8_35,2013,SUV
+Mercedes-Benz,M Class,59_27,2000,SUV
+Infiniti,Q70,37_8,2016,Saloon
+Land Rover,Freelander 2,47_12,2008,SUV
+Mercedes-Benz,Vito,59_39,2006,nan
+Maserati,Granturismo,55_8,2017,Coupe
+Fiat,Doblo,28_12,2003,Estate
+Kia,Cee'd,43_2,2009,Estate
+Audi,A8,7_16,2014,Saloon
+Renault,Clio,75_2,2009,Hatchback
+Proton,Savvy,72_6,2006,Hatchback
+Porsche,Cayenne,71_8,2017,SUV
+SEAT,Exeo,79_8,2009,Estate
+Volvo,XC60,96_16,2017,SUV
+Toyota,Avensis,92_4,2015,Estate
+Mazda,Mazda5,57_12,2006,MPV
+Subaru,Levorg,86_6,2016,Estate
+Volkswagen,Scirocco,95_23,2016,Coupe
+Bentley,Flying Spur,10_6,2013,Saloon
+Subaru,Legacy,86_5,2010,Saloon
+Citroen,C8,18_17,2008,MPV
+Lamborghini,Murcielago,45_5,2010,Coupe
+Infiniti,Q70,37_8,2014,Saloon
+Audi,A6 Saloon,7_11,2015,Estate
+Peugeot,3008,69_13,2016,SUV
+BMW,5 Series,8_9,2015,Saloon
+Toyota,C-HR,92_8,2017,SUV
+Peugeot,3008,69_13,2011,SUV
+Toyota,Land Cruiser,92_21,2007,SUV
+Audi,A4 Allroad,7_6,2017,Estate
+Alfa Romeo,Spider,4_15,2007,Convertible
+Lamborghini,Aventador,45_1,2014,Convertible
+Mitsubishi,Grandis,62_10,2009,MPV
+Nissan,Almera,64_3,2006,Hatchback
+Alfa Romeo,Giulietta,4_11,2011,Hatchback
+Ssangyong,Korando,85_1,2013,SUV
+Citroen,DS5,21_5,2014,Hatchback
+BMW,1 Series,8_1,2014,Hatchback
+Toyota,Prius+,92_31,2015,Estate
+Daihatsu,Materia,24_6,2008,MPV
+Renault,Scenic,75_14,2016,MPV
+Land Rover,Discovery Sport,47_10,2016,SUV
+Citroen,Berlingo Multispace,18_3,2017,MPV
+Volkswagen,Beetle,95_3,2003,Convertible
+Nissan,Pathfinder,64_24,2006,MPV
+Volkswagen,Golf SV,95_17,2014,Hatchback
+Mercedes-Benz,GLC Class,59_24,2017,Estate
+Lexus,IS Unspecified,48_8,2014,Saloon
+Rolls-Royce,Wraith,77_6,2015,Coupe
+Renault,Kadjar,75_8,2015,SUV
+Nissan,Navara,64_20,2015,Pickup
+Lexus,IS 250,48_8,2010,Saloon
+Mercedes-Benz,SL Class,59_30,2016,Convertible
+Ford,S-Max,29_31,2009,MPV
+Mitsubishi,Shogun,62_18,2016,SUV
+Smart,forfour,84_1,2015,Hatchback
+Lexus,IS 200,48_8,2003,Saloon
+Volkswagen,Phaeton,95_21,2013,Saloon
+Infiniti,Q50,37_6,2014,Saloon
+Nissan,NV200,64_22,2015,MPV
+SKODA,Roomster,80_8,2010,MPV
+MINI,Convertible,54_3,2011,Convertible
+Citroen,Nemo Multispace,18_25,2009,MPV
+Land Rover,Discovery Sport,47_10,2012,SUV
+Alfa Romeo,MiTo,4_14,2011,Hatchback
+Mercedes-Benz,Citan,59_13,2015,Combi Van
+Jaguar,XKR,39_11,2007,Coupe
+Kia,Rio,43_9,2016,Hatchback
+Toyota,Land Cruiser,92_21,2006,SUV
+Ferrari,F430,27_18,2006,nan
+Volkswagen,Eos,95_13,2007,Convertible
+Land Rover,Freelander 2,47_12,2011,SUV
+Nissan,Juke,64_14,2017,SUV
+Audi,A3,7_3,2009,Hatchback
+Mercedes-Benz,E Class,59_20,2016,Saloon
+Volkswagen,Touareg,95_28,2017,SUV
+Audi,S1,7_34,2014,Hatchback
+Ssangyong,Rexton,85_5,2015,SUV
+Hyundai,i30,36_10,2010,Hatchback
+Rolls-Royce,Wraith,77_6,2017,Coupe
+Daihatsu,Sirion,24_7,2009,Hatchback
+Porsche,911,71_4,2008,Coupe
+Renault,Megane,75_12,2007,Hatchback
+Ford,S-Max,29_31,2017,MPV
+Mazda,CX-7,57_8,2008,SUV
+Honda,CR-V,34_3,2000,SUV
+Fiat,Panda,28_18,2006,Hatchback
+Audi,RS4 Avant,7_27,2000,Estate
+Audi,S5,7_39,2010,Coupe
+Audi,SQ5,7_44,2017,SUV
+Citroen,Grand C4 Picasso,18_24,2010,MPV
+Mazda,Mazda5,57_12,2014,MPV
+Suzuki,Alto,87_1,2014,Hatchback
+Volkswagen,Caddy Maxi,95_7,2009,Panel Van
+BMW,2 Series Active Tourer,8_3,2018,MPV
+Peugeot,RCZ,69_36,2015,Coupe
+SKODA,Octavia,80_5,2000,Hatchback
+SEAT,Altea,79_2,2007,MPV
+BMW,7 Series,8_14,2011,Saloon
+BMW,M5,8_32,2015,Saloon
+Toyota,PROACE Verso,92_33,2017,MPV
+Alfa Romeo,MiTo,4_14,2012,Hatchback
+Fiat,Multipla,28_17,2011,MPV
+Fiat,500C,28_3,2013,Convertible
+Peugeot,407,69_23,2009,Saloon
+Hyundai,i10,36_8,2010,Hatchback
+Fiat,Panda,28_18,2011,Hatchback
+SEAT,Ibiza,79_9,2010,Hatchback
+Peugeot,108,69_4,2017,Hatchback
+Peugeot,3008,69_13,2017,SUV
+Kia,Soul,43_12,2016,Hatchback
+Audi,SQ7,7_45,2017,SUV
+Vauxhall,Zafira,94_27,2014,MPV
+Subaru,Impreza,86_3,2007,Hatchback
+Kia,Sorento,43_11,2014,SUV
+Audi,Q5,7_20,2012,SUV
+Dacia,Duster,22_1,2017,SUV
+Ford,B-Max,29_1,2014,MPV
+SEAT,Alhambra,79_1,2016,MPV
+Mitsubishi,L200,62_13,2012,Pickup
+Peugeot,508,69_26,2014,Saloon
+Mitsubishi,Shogun,62_18,2012,SUV
+Nissan,e-NV200,64_7,2016,Combi Van
+Lexus,RX 400h,48_24,2009,SUV
+Suzuki,SX4,87_11,2010,Hatchback
+Kia,Rio,43_9,2011,Hatchback
+Peugeot,508 SW,69_27,2017,Estate
+SKODA,Rapid Spaceback,80_7,2017,Hatchback
+Aston Martin,DB11,6_2,2017,Coupe
+Vauxhall,Insignia,94_13,2016,Hatchback
+Volkswagen,CC,95_12,2014,Saloon
+BMW,X5,8_39,2009,SUV
+Peugeot,307 SW,69_17,2003,Estate
+Mercedes-Benz,SL Class,59_30,2014,Convertible
+Land Rover,Discovery 4,47_9,2010,SUV
+Honda,CR-V,34_3,2003,SUV
+Citroen,DS4,21_3,2016,Hatchback
+BMW,Z8,8_47,2000,Convertible
+Chevrolet,Lacetti,16_11,2006,Estate
+Mercedes-Benz,A Class,59_8,2003,Hatchback
+Dodge,Nitro,26_6,2007,SUV
+Toyota,GT86,92_17,2015,Coupe
+Volvo,V50,96_9,2010,Estate
+Fiat,500C,28_3,2012,Convertible
+Fiat,Multipla,28_17,2007,MPV
+Nissan,Primera,64_31,2003,Hatchback
+Citroen,C3,18_8,2017,Hatchback
+Peugeot,807,69_29,2009,MPV
+MINI,Countryman,54_4,2012,Hatchback
+Land Rover,Range Rover,47_13,2008,SUV
+Lexus,NX 300h,48_18,2017,Estate
+Fiat,500X,28_5,2017,SUV
+Renault,Modus,75_13,2011,Hatchback
+Nissan,Pulsar,64_32,2017,Hatchback
+Lamborghini,Aventador,45_1,2016,Convertible
+Volkswagen,Sharan,95_24,2009,MPV
+BMW,X6,8_41,2009,SUV
+Lexus,RX 400h,48_24,2006,SUV
+Saab,9-5,81_3,2007,Saloon
+Volkswagen,Touran,95_29,2014,MPV
+Dacia,Logan MCV,22_2,2013,Estate
+Ford,Grand C-Max,29_20,2016,MPV
+Toyota,AYGO,92_6,2008,Hatchback
+Lamborghini,Huracan,45_4,2014,Convertible
+Volvo,S40,96_3,2008,Saloon
+Ford,Grand C-Max,29_20,2015,MPV
+Peugeot,107,69_3,2007,Hatchback
+Ford,Grand Tourneo Connect,29_21,2015,MPV
+Lexus,RX 450h,48_24,2011,SUV
+Jaguar,F-Type,39_3,2015,Convertible
+Porsche,Panamera,71_11,2010,Hatchback
+Mazda,Mazda6,57_13,2013,Saloon
+Jaguar,F-Type,39_3,2013,Convertible
+Citroen,DS4,21_3,2014,Hatchback
+SKODA,Yeti,80_10,2015,SUV
+Hyundai,i30,36_10,2012,Hatchback
+Jaguar,XJ,39_8,2000,Saloon
+Hyundai,i10,36_8,2013,Hatchback
+Volkswagen,Golf,95_15,2016,Hatchback
+Volkswagen,Phaeton,95_21,2007,Saloon
+Audi,S5,7_39,2007,Coupe
+Volkswagen,Transporter,95_30,2012,Combi Van
+Mercedes-Benz,R Class,59_28,2007,MPV
+Audi,RS3,7_25,2017,Saloon
+Volkswagen,Golf,95_15,2008,Hatchback
+Lexus,LS 600h,48_15,2011,Saloon
+Hyundai,Santa Fe,36_20,2015,SUV
+Toyota,Land Cruiser,92_21,2003,SUV
+Lexus,IS 200,48_8,2011,Saloon
+BMW,1 Series,8_1,2006,Hatchback
+Ferrari,612,27_11,2006,Coupe
+Honda,S2000,34_16,2006,Convertible
+Land Rover,Range Rover Evoque,47_14,2013,SUV
+BMW,i8,8_28,2015,Coupe
+Hyundai,ix35,36_16,2010,SUV
+Mazda,Mazda2,57_10,2012,Hatchback
+Lexus,SC 430,48_30,2003,Convertible
+Mazda,Mazda6,57_13,2012,Saloon
+Nissan,Navara,64_20,2014,Pickup
+Infiniti,Q50,37_6,2015,Saloon
+Chevrolet,Trax,16_18,2013,Hatchback
+Lexus,GS 300,48_2,2006,Saloon
+Vauxhall,Meriva,94_14,2003,MPV
+Audi,A6 Saloon,7_11,2006,Estate
+Audi,Q3,7_19,2013,SUV
+Volvo,V70,96_12,2015,Estate
+Honda,CR-V,34_3,2014,SUV
+Chrysler,Voyager,17_9,2007,MPV
+Kia,Cee'd,43_2,2015,Estate
+Mercedes-Benz,GL Class,59_22,2007,SUV
+Peugeot,5008,69_25,2010,MPV
+SKODA,Yeti,80_10,2012,SUV
+Audi,A6 Allroad,7_11,2007,Estate
+Ferrari,California,27_13,2010,Convertible
+Volkswagen,Sharan,95_24,2010,MPV
+Citroen,C4 Cactus,18_13,2017,Hatchback
+Mercedes-Benz,SL Class,59_30,2012,Convertible
+Proton,GEN-2,72_1,2011,Hatchback
+Nissan,X-Trail,64_41,2017,SUV
+Mercedes-Benz,S Class,59_29,2012,Saloon
+Peugeot,406,69_22,2000,Saloon
+Toyota,Prius,92_30,2013,Hatchback
+Aston Martin,Rapide,6_6,2011,Saloon
+McLaren,12C,58_1,2012,Coupe
+Jaguar,F-Type,39_3,2016,Convertible
+Peugeot,Partner,69_34,2007,MPV
+Jeep,Patriot,40_5,2010,SUV
+Volkswagen,Transporter Shuttle,95_31,2017,nan
+BMW,7 Series,8_14,2009,Saloon
+Alfa Romeo,Giulietta,4_11,2012,Hatchback
+Toyota,RAV4,92_34,2010,SUV
+Alfa Romeo,MiTo,4_14,2009,Hatchback
+Lexus,IS 200,48_8,2017,Saloon
+Vauxhall,Corsa,94_9,2017,Hatchback
+Vauxhall,Cascada,94_7,2017,Convertible
+Lexus,RC F,48_21,2015,Coupe
+SEAT,Altea,79_2,2013,MPV
+Toyota,Verso,92_40,2014,MPV
+Jaguar,XE,39_6,2015,Saloon
+Volvo,V40 Cross Country,96_8,2014,Hatchback
+Ford,Mondeo,29_27,2007,Hatchback
+Alfa Romeo,Giulietta,4_11,2013,Hatchback
+BMW,M4,8_31,2014,Coupe
+Kia,Soul,43_12,2015,Hatchback
+Porsche,Macan,71_10,2016,SUV
+Ford,Tourneo Custom,29_35,2017,Minibus
+Jaguar,XK,39_9,2013,Coupe
+Vauxhall,Viva,94_23,2017,Hatchback
+Toyota,Prius,92_30,2014,Hatchback
+Ferrari,458,27_6,2011,Coupe
+Audi,RS6 Avant,7_32,2015,Estate
+Nissan,Qashqai,64_33,2016,SUV
+Ssangyong,Korando,85_1,2011,SUV
+Mazda,Mazda3,57_11,2012,Hatchback
+Nissan,President,64_29,2007,Saloon
+Volkswagen,Bora,95_4,2003,Saloon
+Hyundai,i30,36_10,2013,Hatchback
+Audi,S4,7_36,2014,Saloon
+Toyota,Alphard,92_2,2010,MPV
+Honda,HR-V,34_8,2016,SUV
+Ferrari,Laferrari,27_21,2013,Coupe
+Porsche,Cayman,71_9,2008,Coupe
+Volkswagen,Transporter,95_30,2014,Combi Van
+Nissan,Micra,64_17,2014,Hatchback
+Jeep,Commander,40_2,2006,SUV
+Suzuki,SX4 S-Cross,87_12,2014,SUV
+Kia,Sportage,43_13,2012,SUV
+Lexus,RX 300,48_24,2003,SUV
+Mazda,Bongo,57_4,2016,nan
+Mercedes-Benz,A Class,59_8,2014,Hatchback
+Kia,Carens,43_1,2008,MPV
+Ford,Mustang,29_28,2017,Coupe
+BMW,6 Series,8_11,2014,Convertible
+Toyota,C-HR,92_8,2016,SUV
+Citroen,SpaceTourer,18_27,2017,MPV
+Ford,EcoSport,29_4,2016,SUV
+Vauxhall,Zafira,94_27,2016,MPV
+Ford,Mustang,29_28,2015,Coupe
+Audi,A3,7_3,2003,Hatchback
+Toyota,RAV4,92_34,2017,SUV
+Volvo,V60,96_10,2015,Estate
+Bentley,Continental,10_5,2015,Convertible
+Chevrolet,Aveo,16_2,2011,Hatchback
+Kia,Pro_Cee'd,43_8,2009,Hatchback
+Volvo,XC90,96_18,2014,SUV
+Subaru,Outback,86_7,2017,Estate
+Infiniti,Q50,37_6,2017,Saloon
+Aston Martin,DBS,6_5,2010,Convertible
+Mercedes-Benz,A Class,59_8,2000,Hatchback
+Hyundai,i20,36_9,2016,Hatchback
+Fiat,500L,28_4,2015,MPV
+Kia,Rio,43_9,2013,Hatchback
+Volkswagen,Beetle,95_3,2006,Convertible
+Hyundai,Santa Fe,36_20,2013,SUV
+Ssangyong,Korando,85_1,2012,SUV
+Peugeot,308 SW,69_20,2008,Estate
+Ford,EcoSport,29_4,2015,SUV
+Ford,Ka,29_23,2000,Hatchback
+Audi,TTS,7_48,2011,Coupe
+Infiniti,QX30,37_9,2017,SUV
+Vauxhall,Vectra,94_22,2003,Hatchback
+Audi,RS4,7_26,2006,Saloon
+Lexus,GS 450h,48_2,2010,Saloon
+Volkswagen,Transporter,95_30,2009,Combi Van
+BMW,5 Series Gran Turismo,8_10,2016,Hatchback
+Porsche,Cayman,71_9,2014,Coupe
+Ford,Ka,29_23,2013,Hatchback
+Land Rover,Range Rover,47_13,2013,SUV
+Volkswagen,Transporter Shuttle,95_31,2014,nan
+Volvo,C70,96_2,2009,Convertible
+Audi,RS6 Avant,7_32,2003,Estate
+Suzuki,Grand Vitara,87_4,2012,SUV
+Abarth,595C,2_5,2015,Convertible
+Porsche,Cayenne,71_8,2010,SUV
+Mercedes-Benz,S Class,59_29,2013,Saloon
+Kia,Sorento,43_11,2017,SUV
+SEAT,Toledo,79_12,2013,Hatchback
+Kia,Carens,43_1,2007,MPV
+Audi,A4 Avant,7_7,2000,Estate
+Fiat,500,28_2,2014,Hatchback
+BMW,5 Series Gran Turismo,8_10,2015,Hatchback
+Audi,A4,7_5,2011,Saloon
+Hyundai,Santa Fe,36_20,2017,SUV
+Mercedes-Benz,B Class,59_11,2007,Hatchback
+Jaguar,XF,39_7,2003,Saloon
+Kia,Sedona,43_10,2007,MPV
+SEAT,Mii,79_11,2014,Hatchback
+Abarth,595,2_4,2015,Hatchback
+Volkswagen,Transporter Shuttle,95_31,2015,nan
+Vauxhall,Vivaro,94_24,2014,MPV
+Ssangyong,Kyron,85_3,2007,SUV
+BMW,X1,8_35,2009,SUV
+Citroen,DS3,21_1,2013,Hatchback
+SKODA,Yeti,80_10,2013,SUV
+Volkswagen,Sharan,95_24,2016,MPV
+Renault,Laguna,75_11,2000,Hatchback
+Peugeot,Traveller,69_37,2017,MPV
+SEAT,Alhambra,79_1,2009,MPV
+Porsche,Cayenne,71_8,2003,SUV
+Jeep,Compass,40_3,2013,SUV
+Bentley,Brooklands,10_4,2008,Coupe
+Lexus,RC F,48_21,2016,Coupe
+Hyundai,ix20,36_15,2013,Hatchback
+Subaru,Levorg,86_6,2017,Estate
+Hyundai,i800,36_13,2016,MPV
+Peugeot,508,69_26,2015,Saloon
+Hyundai,Santa Fe,36_20,2007,SUV
+Citroen,Xsara Picasso,18_30,2003,MPV
+Renault,Captur,75_1,2016,SUV
+Peugeot,4007,69_21,2009,SUV
+Suzuki,Alto,87_1,2015,Hatchback
+Renault,Trafic,75_17,2012,Combi Van
+Audi,S4,7_36,2000,Saloon
+Vauxhall,Mokka,94_15,2016,Hatchback
+Audi,A6 Saloon,7_11,2008,Estate
+Audi,SQ5,7_44,2014,SUV
+Lamborghini,Aventador,45_1,2017,Convertible
+Ford,Ka,29_23,2011,Hatchback
+SEAT,Ibiza,79_9,2007,Hatchback
+Dacia,Sandero Stepway,22_4,2015,Hatchback
+Mercedes-Benz,GLE Class,59_25,2014,SUV
+Renault,Captur,75_1,2013,SUV
+Toyota,Prius,92_30,2011,Hatchback
+Alfa Romeo,MiTo,4_14,2014,Hatchback
+Volvo,C30,96_1,2006,Coupe
+Jeep,Grand Cherokee,40_4,2014,SUV
+Vauxhall,Astra,94_5,2008,Hatchback
+Audi,Q3,7_19,2016,SUV
+Chevrolet,Captiva,16_5,2012,SUV
+BMW,M2,8_29,2018,Coupe
+Ford,Fiesta,29_13,2014,Hatchback
+Hyundai,Veloster,36_25,2012,Coupe
+Nissan,Qashqai+2,64_34,2013,SUV
+Jaguar,F-PACE,39_2,2016,SUV
+Nissan,Juke,64_14,2015,SUV
+Volkswagen,Transporter,95_30,2011,Combi Van
+Vauxhall,Corsa,94_9,2006,Hatchback
+Citroen,C4,18_12,2013,Hatchback
+SEAT,Alhambra,79_1,2015,MPV
+BMW,X5,8_39,2003,SUV
+Hyundai,Elantra,36_4,2003,Hatchback
+Citroen,DS3 Cabrio,21_1,2014,Hatchback
+Mercedes-Benz,A Class,59_8,2015,Hatchback
+Porsche,Cayenne,71_8,2015,SUV
+SKODA,Superb,80_9,2011,Hatchback
+McLaren,570GT,58_3,2016,Coupe
+Alfa Romeo,4C,4_7,2015,Convertible
+Isuzu,Rodeo,38_3,2009,Pickup
+Volvo,V70,96_12,2009,Estate
+SEAT,Alhambra,79_1,2012,MPV
+Ford,Grand C-Max,29_20,2014,MPV
+Citroen,C3,18_8,2003,Hatchback
+Nissan,Qashqai,64_33,2010,SUV
+Lexus,IS 220d,48_8,2009,Saloon
+Ford,Mondeo,29_27,2011,Hatchback
+Citroen,DS3 Cabrio,21_1,2013,Hatchback
+Volkswagen,Tiguan,95_26,2016,SUV
+Volkswagen,Passat,95_20,2013,Estate
+Vauxhall,Crossland X,94_10,2017,SUV
+Renault,Twingo,75_18,2014,Hatchback
+Audi,RS7,7_33,2014,Hatchback
+Nissan,Terrano II,64_39,2000,SUV
+Toyota,Previa,92_29,2003,MPV
+Volkswagen,Amarok,95_1,2012,Hatchback
+Lexus,RX 350,48_24,2006,SUV
+Fiat,Grande Punto,28_15,2007,Hatchback
+BMW,2 Series Active Tourer,8_3,2014,MPV
+Ford,Cougar,29_3,2000,Coupe
+MINI,Roadster,54_8,2015,Convertible
+Lexus,IS 250,48_8,2008,Saloon
+Peugeot,208,69_12,2015,Hatchback
+Volvo,V60,96_10,2010,Estate
+Bentley,Flying Spur,10_6,2014,Saloon
+Peugeot,107,69_3,2008,Hatchback
+McLaren,720S,58_7,2017,Coupe
+Volkswagen,Touran,95_29,2015,MPV
+Land Rover,Freelander,47_11,2006,SUV
+Ford,Ka,29_23,2017,Hatchback
+Mitsubishi,Outlander,62_16,2013,SUV
+Fiat,500L,28_4,2013,MPV
+Volvo,V50,96_9,2008,Estate
+Fiat,Panda,28_18,2014,Hatchback
+Mazda,Mazda5,57_12,2013,MPV
+Vauxhall,Insignia,94_13,2008,Hatchback
+Citroen,C4,18_12,2017,Hatchback
+Suzuki,Vitara,87_13,2017,SUV
+Volkswagen,Transporter,95_30,2010,Combi Van
+MG,ZS,53_7,2017,SUV
+Peugeot,Partner Tepee,69_35,2010,MPV
+Mercedes-Benz,R Class,59_28,2011,MPV
+BMW,7 Series,8_14,2013,Saloon
+Mercedes-Benz,CL,59_15,2011,Coupe
+Mercedes-Benz,C Class,59_12,2013,Estate
+Citroen,Xsara Picasso,18_30,2007,MPV
+Citroen,Grand C4 Picasso,18_24,2017,MPV
+Volkswagen,Jetta,95_18,2014,Saloon
+Fiat,Punto,28_19,2015,Hatchback
+BMW,M2,8_29,2014,Coupe
+BMW,5 Series,8_9,2013,Saloon
+Audi,RS7,7_33,2017,Hatchback
+Maserati,Granturismo,55_8,2009,Coupe
+Nissan,Micra,64_17,2000,Hatchback
+Volkswagen,Eos,95_13,2010,Convertible
+Ford,Ranger,29_30,2016,Pickup
+Chevrolet,Tacuma,16_16,2007,MPV
+Volkswagen,Tiguan,95_26,2008,SUV
+Land Rover,Range Rover Velar,47_16,2000,SUV
+MINI,Roadster,54_8,2012,Convertible
+Vauxhall,Meriva,94_14,2014,MPV
+Volvo,S60,96_4,2007,Saloon
+Ford,Transit Custom,29_38,2015,Combi Van
+Nissan,Note,64_21,2011,Hatchback
+Audi,TTS,7_48,2013,Coupe
+Land Rover,Range Rover,47_13,2015,SUV
+Jeep,Renegade,40_6,2015,SUV
+Land Rover,Discovery Sport,47_10,2017,SUV
+Volkswagen,Jetta,95_18,2012,Saloon
+MINI,Paceman,54_7,2013,Hatchback
+Hyundai,i20,36_9,2015,Hatchback
+Ford,Mustang,29_28,2016,Coupe
+Mercedes-Benz,GL Class,59_22,2010,SUV
+Volvo,XC90,96_18,2015,SUV
+Toyota,Land Cruiser,92_21,2012,SUV
+BMW,2 Series Gran Tourer,8_4,2015,MPV
+Maserati,Ghibli,55_5,2014,Saloon
+Ford,Mondeo,29_27,2013,Hatchback
+Peugeot,206 CC,69_7,2003,Convertible
+Toyota,Corolla,92_11,2003,Hatchback
+Porsche,Panamera,71_11,2012,Hatchback
+Ford,Focus CC,29_16,2010,Convertible
+Citroen,DS3 Cabrio,21_1,2015,Hatchback
+Ferrari,458,27_6,2013,Coupe
+Audi,A4 Allroad,7_6,2014,Estate
+Peugeot,407 SW,69_24,2006,Estate
+Ford,Galaxy,29_19,2003,MPV
+Porsche,Boxster,71_6,2008,Convertible
+Mitsubishi,Colt,62_3,2008,Hatchback
+Chrysler,Ypsilon,17_10,2011,Hatchback
+Mazda,Mazda2,57_10,2016,Hatchback
+Audi,S4,7_36,2017,Saloon
+Land Rover,Range Rover Sport,47_15,2008,SUV
+Toyota,Avensis,92_4,2012,Estate
+Ford,Ranger,29_30,2012,Pickup
+Peugeot,807,69_29,2007,MPV
+Ssangyong,Tivoli,85_7,2016,Hatchback
+Volkswagen,Touran,95_29,2016,MPV
+Honda,FR-V,34_7,2007,MPV
+Land Rover,Range Rover,47_13,2003,SUV
+Jaguar,F-PACE,39_2,2017,SUV
+Fiat,Qubo,28_21,2010,MPV
+SEAT,Exeo,79_8,2013,Estate
+Suzuki,Vitara,87_13,2016,SUV
+Fiat,Croma,28_11,2006,Estate
+Fiat,500,28_2,2015,Hatchback
+Fiat,Bravo,28_10,2007,Hatchback
+Volkswagen,Touran,95_29,2003,MPV
+Citroen,C3 Picasso,18_10,2016,MPV
+Jaguar,XJ,39_8,2008,Saloon
+Audi,TTS,7_48,2012,Coupe
+Chevrolet,Spark,16_14,2012,Hatchback
+Lexus,GS 300,48_2,2014,Saloon
+Toyota,Soarer,92_35,2007,Coupe
+Kia,Cee'd,43_2,2008,Estate
+Nissan,Qashqai,64_33,2013,SUV
+Mitsubishi,Carisma,62_2,2003,Hatchback
+Hyundai,Accent,36_1,2000,Coupe
+Vauxhall,Zafira,94_27,2008,MPV
+Renault,Scenic,75_14,2017,MPV
+Alfa Romeo,Giulia,4_10,2016,Saloon
+Mercedes-Benz,Sprinter,59_35,2011,nan
+Volkswagen,T-Roc,95_25,2017,SUV
+Ssangyong,Tivoli XLV,85_8,2017,SUV
+Volkswagen,Golf,95_15,2009,Hatchback
+Vauxhall,Meriva,94_14,2011,MPV
+Toyota,Prius,92_30,2016,Hatchback
+Volkswagen,Sharan,95_24,2003,MPV
+Citroen,DS4,21_3,2011,Hatchback
+Mitsubishi,Lancer,62_14,2010,Saloon
+Mazda,Mazda2,57_10,2013,Hatchback
+Peugeot,508,69_26,2011,Saloon
+Nissan,NV300,64_23,2017,Combi Van
+Ford,Mondeo,29_27,2009,Hatchback
+Isuzu,D-Max,38_2,2012,Pickup
+Tesla,Model S,90_1,2014,Saloon
+Renault,Clio,75_2,2016,Hatchback
+Peugeot,Partner Tepee,69_35,2008,MPV
+Volkswagen,up!,95_33,2016,Hatchback
+Land Rover,Freelander 2,47_12,2014,SUV
+Honda,S2000,34_16,2000,Convertible
+Audi,SQ5,7_44,2013,SUV
+Chrysler,Voyager,17_9,2006,MPV
+Citroen,C4,18_12,2006,Hatchback
+Daihatsu,Terios,24_8,2008,SUV
+Hyundai,ix20,36_15,2015,Hatchback
+Dacia,Sandero,22_3,2015,Hatchback
+BMW,2 Series,8_2,2016,Coupe
+Volkswagen,Sharan,95_24,2014,MPV
+SEAT,Altea,79_2,2008,MPV
+Ferrari,FF,27_19,2011,Coupe
+Chevrolet,Spark,16_14,2011,Hatchback
+Lotus,3-Eleven,51_2,2016,Convertible
+Toyota,Verso,92_40,2011,MPV
+Toyota,Yaris,92_44,2017,Hatchback
+Fiat,500C,28_3,2014,Convertible
+Audi,Q7,7_21,2010,SUV
+Mazda,MX-5,57_15,2000,Convertible
+Toyota,Verso,92_40,2013,MPV
+Renault,Captur,75_1,2014,SUV
+SKODA,Yeti,80_10,2017,SUV
+Vauxhall,Astra GTC,94_6,2013,Coupe
+Volkswagen,Caddy Maxi,95_7,2011,Panel Van
+Volkswagen,Golf Plus,95_16,2010,Hatchback
+BMW,6 Series Gran Coupe,8_12,2013,Coupe
+Lexus,IS 250,48_8,2006,Saloon
+Lexus,LS 600h,48_15,2007,Saloon
+Volkswagen,CC,95_12,2009,Saloon
+Vauxhall,Zafira,94_27,2010,MPV
+Hyundai,i40,36_12,2013,Estate
+Hyundai,i10,36_8,2017,Hatchback
+SKODA,Rapid,80_6,2015,Hatchback
+Maserati,Quattroporte,55_10,2006,Saloon
+Renault,Wind,75_21,2011,Convertible
+Ford,Galaxy,29_19,2009,MPV
+Peugeot,207,69_9,2008,Hatchback
+Mercedes-Benz,C Class,59_12,2012,Estate
+Volkswagen,Tiguan,95_26,2014,SUV
+Ford,Focus CC,29_16,2008,Convertible
+Chrysler,Voyager,17_9,2008,MPV
+Renault,Laguna,75_11,2007,Hatchback
+Volkswagen,Jetta,95_18,2015,Saloon
+BMW,X5M,8_40,2009,SUV
+Nissan,Fairlady,64_10,2007,Coupe
+Daihatsu,Terios,24_8,2009,SUV
+Audi,A6 Avant,7_11,2013,Estate
+Jaguar,XK8,39_10,2003,Convertible
+Peugeot,RCZ,69_36,2011,Coupe
+Volkswagen,Golf,95_15,2017,Hatchback
+Kia,Niro,43_5,2016,Estate
+Jaguar,X-Type,39_5,2003,Saloon
+Mazda,Bongo,57_4,2011,nan
+Hyundai,Amica,36_2,2007,Hatchback
+Audi,Q7,7_21,2011,SUV
+Volvo,S80,96_5,2006,Saloon
+Ferrari,F12berlinetta,27_16,2015,Coupe
+Mercedes-Benz,A Class,59_8,2011,Hatchback
+Volvo,V60,96_10,2014,Estate
+Peugeot,Partner Tepee,69_35,2012,MPV
+Audi,A4,7_5,2012,Saloon
+Volvo,V40 Cross Country,96_8,2017,Hatchback
+Fiat,Grande Punto,28_15,2009,Hatchback
+Audi,A6 Allroad,7_11,2017,Estate
+Audi,RS4 Cabriolet,7_28,2006,Convertible
+Chevrolet,Matiz,16_12,2008,Hatchback
+Volkswagen,Touran,95_29,2011,MPV
+Mercedes-Benz,SLS,59_34,2011,Convertible
+Nissan,Note,64_21,2014,Hatchback
+Audi,A7,7_15,2014,Hatchback
+Mercedes-Benz,SLK,59_32,2003,Convertible
+Subaru,XV,86_11,2015,SUV
+Toyota,Avensis,92_4,2013,Estate
+Nissan,Qashqai,64_33,2008,SUV
+Audi,A7,7_15,2015,Hatchback
+Volkswagen,Golf,95_15,2007,Hatchback
+Renault,Scenic,75_14,2007,MPV
+Vauxhall,Meriva,94_14,2017,MPV
+Porsche,Macan,71_10,2017,SUV
+Suzuki,SX4 S-Cross,87_12,2017,SUV
+BMW,X6,8_41,2013,SUV
+Nissan,Qashqai,64_33,2012,SUV
+Volvo,C70,96_2,2010,Convertible
+Citroen,Grand C4 Picasso,18_24,2013,MPV
+Mercedes-Benz,C Class,59_12,2009,Estate
+Ford,Focus,29_14,2015,Hatchback
+Chrysler,PT Cruiser,17_7,2000,Hatchback
+Toyota,Auris,92_3,2016,Hatchback
+Mercedes-Benz,SL Class,59_30,2011,Convertible
+Audi,S5,7_39,2011,Coupe
+Hyundai,ix35,36_16,2015,SUV
+Mercedes-Benz,S Class,59_29,2010,Saloon
+Renault,Scenic Xmod,75_16,2013,MPV
+Mitsubishi,L200,62_13,2015,Pickup
+Toyota,Prius,92_30,2010,Hatchback
+BMW,X1,8_35,2016,SUV
+Citroen,Berlingo,18_2,2012,MPV
+Hyundai,Grandeur,36_7,2008,Saloon
+Peugeot,Partner Tepee,69_35,2011,MPV
+Citroen,C4,18_12,2007,Hatchback
+Nissan,Navara,64_20,2013,Pickup
+Daihatsu,Sirion,24_7,2006,Hatchback
+Toyota,AYGO,92_6,2012,Hatchback
+Nissan,Leaf,64_16,2012,Hatchback
+Saab,9-3,81_1,2010,Convertible
+Maserati,Granturismo,55_8,2016,Coupe
+Honda,HR-V,34_8,2017,SUV
+Nissan,Pathfinder,64_24,2009,MPV
+Vauxhall,Vivaro,94_24,2011,MPV
+Hyundai,i30,36_10,2007,Hatchback
+Audi,A4 Allroad,7_6,2010,Estate
+Citroen,C5,18_15,2009,Saloon
+Volvo,S40,96_3,2000,Saloon
+Suzuki,Celerio,87_3,2015,Hatchback
+SEAT,Arosa,79_5,2003,Hatchback
+Audi,A3,7_3,2007,Hatchback
+Fiat,Punto Evo,28_20,2010,Hatchback
+Ssangyong,Rodius,85_6,2006,MPV
+Fiat,Doblo,28_12,2014,Estate
+Mitsubishi,ASX,62_1,2013,SUV
+Porsche,Boxster,71_6,2003,Convertible
+Ford,Fiesta,29_13,2015,Hatchback
+Ferrari,Scuderia Spider,27_22,2009,Convertible
+Audi,A5 Cabriolet,7_10,2017,Convertible
+Audi,TT RS,7_47,2014,Coupe
+BMW,5 Series,8_9,2017,Saloon
+BMW,6 Series Gran Coupe,8_12,2014,Coupe
+Ford,Ka,29_23,2014,Hatchback
+Vauxhall,Ampera,94_3,2015,Hatchback
+Audi,A4,7_5,2003,Saloon
+Volkswagen,Scirocco,95_23,2011,Coupe
+Audi,TT,7_46,2016,Coupe
+SKODA,Yeti,80_10,2010,SUV
+Peugeot,308 CC,69_19,2012,Convertible
+Suzuki,SX4 S-Cross,87_12,2016,SUV
+Kia,Picanto,43_7,2007,Hatchback
+Audi,A3 Cabriolet,7_4,2014,Convertible
+Mitsubishi,Outlander,62_16,2012,SUV
+Lexus,GS 250,48_2,2012,Saloon
+Vauxhall,Astra GTC,94_6,2014,Coupe
+Vauxhall,Viva,94_23,2016,Hatchback
+Ford,Ka,29_23,2003,Hatchback
+Kia,Carens,43_1,2006,MPV
+Kia,Optima,43_6,2013,Saloon
+Mitsubishi,Outlander,62_16,2010,SUV
+Ford,C-Max,29_2,2013,MPV
+BMW,M2,8_29,2017,Coupe
+Fiat,Tipo,28_28,2017,Hatchback
+BMW,X1,8_35,2011,SUV
+Toyota,Yaris,92_44,2012,Hatchback
+Volkswagen,up!,95_33,2012,Hatchback
+Ford,Focus CC,29_16,2007,Convertible
+Volvo,V60 Cross Country,96_11,2017,Estate
+Lexus,IS 220d,48_8,2008,Saloon
+Citroen,Dispatch,18_18,2006,Combi Van
+Mitsubishi,Outlander,62_16,2006,SUV
+Porsche,Macan,71_10,2014,SUV
+Nissan,Qashqai,64_33,2017,SUV
+Nissan,Gloria,64_12,2003,Saloon
+Volvo,S40,96_3,2009,Saloon
+Nissan,Pixo,64_28,2009,Hatchback
+Hyundai,i30,36_10,2017,Hatchback
+Volkswagen,Beetle,95_3,2010,Convertible
+Volvo,S60,96_4,2016,Saloon
+Mitsubishi,L200,62_13,2010,Pickup
+Citroen,DS3,21_1,2014,Hatchback
+Audi,TT,7_46,2012,Coupe
+Renault,Grand Scenic,75_7,2014,MPV
+Volkswagen,Polo,95_22,2009,Hatchback
+Chrysler,300C,17_1,2007,Estate
+Toyota,Verso,92_40,2016,MPV
+Volkswagen,Sharan,95_24,2015,MPV
+Dodge,Challenger,26_3,2010,Coupe
+Fiat,500C,28_3,2010,Convertible
+Isuzu,D-Max,38_2,2013,Pickup
+Land Rover,Discovery Sport,47_10,2014,SUV
+Dacia,Sandero,22_3,2017,Hatchback
+Ferrari,458,27_6,2012,Coupe
+SKODA,Fabia,80_2,2014,Hatchback
+Volvo,XC60,96_16,2010,SUV
+Mazda,Mazda3,57_11,2009,Hatchback
+Porsche,Cayman,71_9,2015,Coupe
+Lamborghini,Murcielago,45_5,2008,Coupe
+Ford,Kuga,29_25,2017,SUV
+Renault,Megane,75_12,2003,Hatchback
+Volvo,S60,96_4,2015,Saloon
+Kia,Picanto,43_7,2010,Hatchback
+Kia,Cerato,43_3,2007,Hatchback
+Volkswagen,Tiguan,95_26,2017,SUV
+Vauxhall,Meriva,94_14,2008,MPV
+Honda,Accord,34_1,2003,Saloon
+Audi,TT,7_46,2010,Coupe
+BMW,X5M,8_40,2016,SUV
+Chevrolet,Kalos,16_10,2008,Hatchback
+Citroen,C6,18_16,2007,Saloon
+Citroen,Grand C4 Picasso,18_24,2008,MPV
+Vauxhall,Vivaro,94_24,2017,MPV
+Ssangyong,Turismo,85_9,2016,MPV
+Peugeot,308 SW,69_20,2009,Estate
+Mercedes-Benz,Viano,59_38,2013,Estate
+Audi,Q3,7_19,2015,SUV
+Vauxhall,Corsa,94_9,2011,Hatchback
+SKODA,Fabia,80_2,2013,Hatchback
+Ford,Streetka,29_32,2003,Convertible
+Smart,fortwo,84_2,2013,Hatchback
+BMW,4 Series Gran Coupe,8_8,2018,Coupe
+SKODA,Citigo,80_1,2012,Hatchback
+Volkswagen,Touran,95_29,2007,MPV
+Subaru,BRZ,86_1,2016,Coupe
+Audi,A6 Saloon,7_11,2013,Estate
+Audi,S4,7_36,2010,Saloon
+Volvo,V50,96_9,2012,Estate
+Hyundai,Coupe,36_3,2003,Coupe
+Volvo,V60,96_10,2012,Estate
+Dodge,Nitro,26_6,2009,SUV
+Ford,Ka+,29_24,2017,Hatchback
+Lexus,IS 300,48_8,2015,Saloon
+Subaru,Outback,86_7,2015,Estate
+Audi,A6 Allroad,7_11,2015,Estate
+Mitsubishi,Shogun Sport,62_20,2006,SUV
+Land Rover,Range Rover,47_13,2009,SUV
+Land Rover,Range Rover,47_13,2006,SUV
+BMW,4 Series Gran Coupe,8_8,2015,Coupe
+Lexus,IS 300,48_8,2017,Saloon
+Toyota,Hilux,92_19,2015,nan
+MG,GS,53_1,2016,SUV
+Mitsubishi,Mirage,62_15,2015,Hatchback
+Mercedes-Benz,M Class,59_27,2014,SUV
+Volkswagen,Eos,95_13,2006,Convertible
+BMW,5 Series Gran Turismo,8_10,2013,Hatchback
+Mercedes-Benz,SLC,59_31,2016,Convertible
+Nissan,Qashqai+2,64_34,2008,SUV
+Toyota,RAV4,92_34,2015,SUV
+Kia,Optima,43_6,2016,Saloon
+Renault,Koleos,75_10,2017,SUV
+Vauxhall,Tigra,94_21,2006,Convertible
+Audi,A4 Avant,7_7,2017,Estate
+Honda,Jazz,34_11,2016,Hatchback
+Audi,RS7,7_33,2015,Hatchback
+BMW,Z4,8_45,2010,Convertible
+Ssangyong,Korando,85_1,2016,SUV
+Audi,TT,7_46,2003,Coupe
+Nissan,Terrano,64_38,2006,SUV
+Peugeot,207,69_9,2006,Hatchback
+Maserati,Granturismo,55_8,2014,Coupe
+Jaguar,XJ,39_8,2016,Saloon
+Ford,Fusion,29_18,2007,Hatchback
+Mazda,Mazda2,57_10,2007,Hatchback
+Volvo,V70,96_12,2013,Estate
+Audi,A3 Cabriolet,7_4,2011,Convertible
+Subaru,WRX STI,86_10,2014,Saloon
+Land Rover,Discovery 4,47_9,2012,SUV
+Dacia,Sandero,22_3,2014,Hatchback
+Nissan,Navara,64_20,2006,Pickup
+Toyota,Auris,92_3,2010,Hatchback
+Audi,S4,7_36,2009,Saloon
+Volkswagen,California,95_9,2017,nan
+Porsche,Cayenne,71_8,2012,SUV
+Peugeot,308 CC,69_19,2010,Convertible
+Peugeot,308,69_18,2014,Hatchback
+Lexus,GS 450h,48_2,2006,Saloon
+Nissan,X-Trail,64_41,2014,SUV
+Nissan,X-Trail,64_41,2007,SUV
+Porsche,Panamera,71_11,2009,Hatchback
+Ferrari,430,27_3,2008,Coupe
+Porsche,Cayenne,71_8,2011,SUV
+BMW,1 Series,8_1,2013,Hatchback
+Mazda,Mazda5,57_12,2011,MPV
+Audi,A3 Cabriolet,7_4,2010,Convertible
+Audi,RS6 Avant,7_32,2016,Estate
+Audi,RS5,7_30,2013,Coupe
+Mitsubishi,L200,62_13,2013,Pickup
+SKODA,Rapid,80_6,2012,Hatchback
+Kia,Sportage,43_13,2017,SUV
+Lexus,LS 600h,48_15,2008,Saloon
+Ferrari,California,27_13,2012,Convertible
+Bentley,Continental,10_5,2016,Convertible
+Ford,Fiesta,29_13,2007,Hatchback
+Vauxhall,Meriva,94_14,2012,MPV
+Bentley,Arnage,10_1,2003,Saloon
+Toyota,Proace,92_32,2015,Combi Van
+Toyota,Auris,92_3,2013,Hatchback
+Ford,Fiesta,29_13,2011,Hatchback
+Peugeot,208,69_12,2014,Hatchback
+Ford,Kuga,29_25,2010,SUV
+Volkswagen,Golf SV,95_17,2016,Hatchback
+Vauxhall,Cascada,94_7,2014,Convertible
+SKODA,Superb,80_9,2017,Hatchback
+Citroen,Xsara Picasso,18_30,2008,MPV
+Kia,Rio,43_9,2007,Hatchback
+Smart,fortwo,84_2,2016,Hatchback
+Chrysler,300C,17_1,2008,Estate
+Mitsubishi,ASX,62_1,2012,SUV
+Nissan,Micra C+C,64_18,2007,Convertible
+Suzuki,Ignis,87_5,2003,Hatchback
+Vauxhall,Agila,94_2,2014,Hatchback
+Dodge,Journey,26_5,2009,SUV
+SEAT,Mii,79_11,2012,Hatchback
+Vauxhall,ADAM,94_1,2013,Hatchback
+Peugeot,3008,69_13,2014,SUV
+Nissan,Note,64_21,2012,Hatchback
+Vauxhall,Cascada,94_7,2013,Convertible
+BMW,X4,8_38,2015,SUV
+Nissan,GT-R,64_13,2010,Coupe
+BMW,X1,8_35,2012,SUV
+Audi,A3,7_3,2010,Hatchback
+Lexus,GS F,48_2,2016,Saloon
+Volkswagen,Touareg,95_28,2016,SUV
+Toyota,Land Cruiser,92_21,2014,SUV
+Fiat,Doblo,28_12,2011,Estate
+Nissan,Serena,64_35,2011,MPV
+Peugeot,508 SW,69_27,2016,Estate
+Lotus,Evora,51_6,2013,Coupe
+Volkswagen,Fox,95_14,2007,Hatchback
+Jeep,Compass,40_3,2008,SUV
+BMW,7 Series,8_14,2014,Saloon
+Nissan,NV200,64_22,2016,MPV
+Citroen,C2,18_7,2008,Hatchback
+Maserati,Gransport,55_7,2006,Coupe
+Peugeot,107,69_3,2012,Hatchback
+SKODA,Superb,80_9,2003,Hatchback
+Lexus,NX 200t,48_18,2015,Estate
+Nissan,Murano,64_19,2006,SUV
+Audi,quattro,7_22,2014,Estate
+Dodge,Caliber,26_2,2006,Hatchback
+Hyundai,Getz,36_6,2003,Hatchback
+Volkswagen,Eos,95_13,2008,Convertible
+Renault,Laguna,75_11,2008,Hatchback
+Jeep,Cherokee,40_1,2006,SUV
+Suzuki,Grand Vitara,87_4,2011,SUV
+Porsche,Cayman,71_9,2010,Coupe
+Mercedes-Benz,Citan,59_13,2013,Combi Van
+Ford,Kuga,29_25,2008,SUV
+Porsche,Cayman,71_9,2007,Coupe
+Volkswagen,Bora,95_4,2000,Saloon
+Volkswagen,up!,95_33,2014,Hatchback
+Citroen,DS3,21_1,2016,Hatchback
+Lexus,RX 450h,48_24,2014,SUV
+Lexus,IS 250,48_8,2007,Saloon
+Audi,S4,7_36,2015,Saloon
+Ford,Mondeo,29_27,2017,Hatchback
+Volvo,S90,96_6,2016,Saloon
+Ford,EcoSport,29_4,2017,SUV
+Kia,Carens,43_1,2016,MPV
+Suzuki,Wagon R,87_14,2007,Hatchback
+BMW,X5,8_39,2016,SUV
+Audi,TT RS,7_47,2012,Coupe
+Hyundai,Amica,36_2,2000,Hatchback
+Land Rover,Freelander 2,47_12,2010,SUV
+Renault,Grand Modus,75_6,2008,Hatchback
+Citroen,C4,18_12,2009,Hatchback
+Audi,S5,7_39,2017,Coupe
+Audi,A6 Saloon,7_11,2017,Estate
+Volkswagen,Touareg,95_28,2014,SUV
+Volkswagen,Golf Plus,95_16,2006,Hatchback
+Lexus,CT 200h,48_1,2011,Hatchback
+Mazda,MPV,57_14,2013,MPV
+BMW,2 Series Active Tourer,8_3,2017,MPV
+Hyundai,Veloster,36_25,2013,Coupe
+Audi,Q7,7_21,2012,SUV
+Toyota,Hilux,92_19,2016,nan
+Nissan,Primera,64_31,2006,Hatchback
+Citroen,C5,18_15,2003,Saloon
+Chrysler,Grand Voyager,17_4,2006,MPV
+BMW,2 Series,8_2,2014,Coupe
+Peugeot,107,69_3,2011,Hatchback
+Rover,Streetwise,78_7,2006,Hatchback
+Volkswagen,Caddy Maxi,95_7,2008,Panel Van
+McLaren,650S,58_5,2016,Convertible
+Hyundai,ix20,36_15,2012,Hatchback
+Audi,A4 Avant,7_7,2011,Estate
+Ford,Ka,29_23,2007,Hatchback
+Peugeot,308 SW,69_20,2012,Estate
+Volkswagen,Polo,95_22,2007,Hatchback
+BMW,1 Series,8_1,2010,Hatchback
+Audi,A3,7_3,2012,Hatchback
+Nissan,e-NV200,64_7,2015,Combi Van
+Land Rover,Discovery 4,47_9,2011,SUV
+Mercedes-Benz,GLE Class,59_25,2015,SUV
+Peugeot,5008,69_25,2011,MPV
+Toyota,AYGO,92_6,2017,Hatchback
+Hyundai,Santa Fe,36_20,2016,SUV
+Maserati,Levante,55_9,2017,SUV
+Nissan,Note,64_21,2013,Hatchback
+Maserati,Spyder,55_11,2003,Convertible
+Chevrolet,Lacetti,16_11,2009,Estate
+Subaru,Forester,86_2,2014,SUV
+Volkswagen,Passat,95_20,2015,Estate
+Volkswagen,Fox,95_14,2006,Hatchback
+Volkswagen,Amarok,95_1,2011,Hatchback
+Mercedes-Benz,CLA Class,59_16,2014,Coupe
+Ford,Fiesta,29_13,2000,Hatchback
+Volkswagen,Touareg,95_28,2012,SUV
+BMW,X1,8_35,2010,SUV
+BMW,M4,8_31,2018,Coupe
+Suzuki,Liana,87_8,2008,Hatchback
+Volvo,V50,96_9,2007,Estate
+Land Rover,Discovery,47_6,2000,SUV
+Rolls-Royce,Silver Seraph,77_5,2000,Saloon
+Peugeot,3008,69_13,2015,SUV
+Renault,Kadjar,75_8,2016,SUV
+Volkswagen,Beetle,95_3,2009,Convertible
+SEAT,Exeo,79_8,2010,Estate
+Honda,CR-V,34_3,2013,SUV
+Land Rover,Defender 90,47_4,2012,SUV
+Toyota,Yaris,92_44,2015,Hatchback
+Mazda,Mazda2,57_10,2017,Hatchback
+Nissan,Qashqai,64_33,2009,SUV
+SEAT,Leon,79_10,2003,Hatchback
+Jaguar,X-Type,39_5,2009,Saloon
+Bentley,Continental,10_5,2013,Convertible
+Audi,A5,7_9,2015,Coupe
+BMW,4 Series Gran Coupe,8_8,2016,Coupe
+Fiat,Abarth,28_7,2013,Hatchback
+Saab,9-3,81_1,2007,Convertible
+Peugeot,508,69_26,2013,Saloon
+Land Rover,Defender 110,47_2,2014,SUV
+Volkswagen,Transporter,95_30,2013,Combi Van
+SKODA,Superb,80_9,2015,Hatchback
+Renault,Scenic,75_14,2010,MPV
+Mercedes-Benz,CLK,59_18,2000,Convertible
+SEAT,Mii,79_11,2016,Hatchback
+Volvo,V70,96_12,2007,Estate
+Audi,A4 Cabriolet,7_8,2006,Convertible
+Audi,A5 Cabriolet,7_10,2013,Convertible
+Toyota,RAV4,92_34,2013,SUV
+Mercedes-Benz,R Class,59_28,2010,MPV
+Audi,A6 Unspecified,7_11,2017,Estate
+Mitsubishi,Space Star,62_21,2003,Hatchback
+Volkswagen,Golf,95_15,2013,Hatchback
+Toyota,Avensis,92_4,2009,Estate
+Ford,Galaxy,29_19,2016,MPV
+Audi,R8,7_23,2016,Coupe
+Peugeot,508 SW,69_27,2013,Estate
+Volkswagen,Caddy Maxi,95_7,2012,Panel Van
+Saab,9-3,81_1,2009,Convertible
+Hyundai,i800,36_13,2003,MPV
+BMW,3 Series Gran Turismo,8_6,2017,Hatchback
+Vauxhall,Mokka,94_15,2017,Hatchback
+Porsche,911,71_4,2006,Coupe
+Toyota,GT86,92_17,2014,Coupe
+Ford,S-Max,29_31,2016,MPV
+Peugeot,308,69_18,2015,Hatchback
+Audi,Q3,7_19,2014,SUV
+Mitsubishi,Colt Cabriolet,62_4,2008,Convertible
+Dacia,Duster,22_1,2015,SUV
+Fiat,500,28_2,2010,Hatchback
+Chevrolet,Corvette,16_6,2015,Coupe
+SKODA,Fabia,80_2,2009,Hatchback
+Mercedes-Benz,B Class,59_11,2016,Hatchback
+BMW,X3,8_37,2018,SUV
+Toyota,Noah,92_26,2006,MPV
+Volkswagen,Caddy Maxi Life,95_8,2011,MPV
+Audi,A4,7_5,2006,Saloon
+Kia,Soul,43_12,2009,Hatchback
+Volkswagen,Golf,95_15,2011,Hatchback
+Kia,Stonic,43_15,2017,SUV
+Volkswagen,Jetta,95_18,2013,Saloon
+Suzuki,SX4 S-Cross,87_12,2013,SUV
+Volkswagen,Passat,95_20,2011,Estate
+Land Rover,Freelander,47_11,2000,SUV
+Toyota,Yaris,92_44,2014,Hatchback
+MG,MG6,53_3,2014,Hatchback
+BMW,4 Series Gran Coupe,8_8,2014,Coupe
+Chevrolet,Captiva,16_5,2011,SUV
+Lotus,Exige,51_7,2014,Coupe
+Hyundai,Trajet,36_23,2006,MPV
+Mazda,Mazda3,57_11,2014,Hatchback
+Mitsubishi,ASX,62_1,2011,SUV
+Daihatsu,Copen,24_3,2003,Convertible
+Abarth,595,2_4,2014,Hatchback
+Renault,Megane,75_12,2011,Hatchback
+Volkswagen,up!,95_33,2017,Hatchback
+Dacia,Sandero,22_3,2016,Hatchback
+Hyundai,Getz,36_6,2006,Hatchback
+Nissan,Note,64_21,2015,Hatchback
+Fiat,Idea,28_16,2007,Hatchback
+Volkswagen,Scirocco,95_23,2012,Coupe
+Ferrari,458,27_6,2015,Coupe
+BMW,X3,8_37,2017,SUV
+Audi,Q5,7_20,2014,SUV
+Volvo,V70,96_12,2010,Estate
+Mercedes-Benz,C Class,59_12,2010,Estate
+Volkswagen,Fox,95_14,2008,Hatchback
+Mazda,CX-7,57_8,2011,SUV
+Lexus,IS F,48_8,2008,Saloon
+Honda,Insight,34_9,2011,Hatchback
+Audi,TT,7_46,2009,Coupe
+BMW,X6M,8_42,2016,SUV
+Audi,TT RS,7_47,2010,Coupe
+Ford,Focus,29_14,2010,Hatchback
+Volvo,V60 Cross Country,96_11,2016,Estate
+Mercedes-Benz,CLS,59_19,2013,Coupe
+Volvo,XC70,96_17,2013,Estate
+Suzuki,Alto,87_1,2012,Hatchback
+Mercedes-Benz,SLK,59_32,2006,Convertible
+Volvo,S60,96_4,2006,Saloon
+Honda,S2000,34_16,2009,Convertible
+SEAT,Toledo,79_12,2015,Hatchback
+Peugeot,308 CC,69_19,2011,Convertible
+McLaren,675LT,58_6,2016,Convertible
+SEAT,Exeo,79_8,2012,Estate
+BMW,i3,8_27,2014,Hatchback
+Maserati,Granturismo,55_8,2007,Coupe
+Citroen,C4,18_12,2015,Hatchback
+Toyota,Auris,92_3,2017,Hatchback
+Hyundai,Genesis,36_5,2015,Saloon
+Toyota,Yaris,92_44,2011,Hatchback
+BMW,1 Series,8_1,2016,Hatchback
+Volkswagen,Scirocco,95_23,2014,Coupe
+Volkswagen,CC,95_12,2011,Saloon
+Honda,Insight,34_9,2014,Hatchback
+Mitsubishi,Shogun,62_18,2003,SUV
+Toyota,Land Cruiser Amazon,92_22,2000,SUV
+Mitsubishi,Mirage,62_15,2017,Hatchback
+Vauxhall,Cascada,94_7,2015,Convertible
+BMW,X5,8_39,2015,SUV
+Mitsubishi,Shogun,62_18,2006,SUV
+Toyota,Alphard,92_2,2006,MPV
+Mercedes-Benz,GL Class,59_22,2006,SUV
+Rolls-Royce,Wraith,77_6,2014,Coupe
+Rover,45,78_2,2000,Hatchback
+Kia,Rio,43_9,2006,Hatchback
+Audi,A6 Avant,7_11,2009,Estate
+BMW,6 Series,8_11,2009,Convertible
+BMW,X1,8_35,2017,SUV
+Vauxhall,Signum,94_20,2003,Hatchback
+Volkswagen,Polo,95_22,2008,Hatchback
+Hyundai,i20,36_9,2013,Hatchback
+Peugeot,207,69_9,2007,Hatchback
+Lexus,NX 300h,48_18,2015,Estate
+Audi,A3,7_3,2014,Hatchback
+Mazda,Mazda5,57_12,2009,MPV
+Audi,A6 Avant,7_11,2017,Estate
+Peugeot,407 SW,69_24,2007,Estate
+Lexus,IS F,48_8,2009,Saloon
+Toyota,Alphard,92_2,2003,MPV
+Vauxhall,Zafira Tourer,94_28,2013,MPV
+Fiat,500C,28_3,2009,Convertible
+Audi,S6 Avant,7_40,2007,Estate
+Honda,Accord,34_1,2006,Saloon
+Maserati,Granturismo,55_8,2011,Coupe
+Infiniti,G,37_3,2012,Convertible
+Abarth,595,2_4,2017,Hatchback
+Renault,Grand Modus,75_6,2009,Hatchback
+Bentley,Continental,10_5,2008,Convertible
+Volvo,XC90,96_18,2017,SUV
+Renault,Trafic,75_17,2013,Combi Van
+Renault,Clio,75_2,2000,Hatchback
+Volkswagen,Scirocco,95_23,2010,Coupe
+Toyota,Estima,92_14,2006,MPV
+Ford,Tourneo Connect,29_34,2017,MPV
+Audi,R8,7_23,2009,Coupe
+Land Rover,Freelander,47_11,2003,SUV
+Bentley,Continental,10_5,2012,Convertible
+Isuzu,D-Max,38_2,2014,Pickup
+Ferrari,488,27_7,2016,Coupe
+Mazda,Mazda6,57_13,2011,Saloon
+Audi,A3 Cabriolet,7_4,2015,Convertible
+Audi,A6 Saloon,7_11,2011,Estate
+Toyota,Hilux,92_19,2012,nan
+Zenos,E10,99_1,2016,Convertible
+Volkswagen,Scirocco,95_23,2013,Coupe
+Peugeot,Expert,69_31,2008,Panel Van
+Nissan,X-Trail,64_41,2008,SUV
+Fiat,Doblo,28_12,2009,Estate
+Volvo,XC60,96_16,2014,SUV
+Mercedes-Benz,G Class,59_21,2014,SUV
+Jaguar,XJ,39_8,2017,Saloon
+Hyundai,ix20,36_15,2016,Hatchback
+Mercedes-Benz,E Class,59_20,2017,Saloon
+Toyota,iQ,92_20,2010,Hatchback
+SEAT,Ibiza,79_9,2008,Hatchback
+Volkswagen,Touareg,95_28,2003,SUV
+Fiat,Qubo,28_21,2016,MPV
+Lotus,Evora,51_6,2017,Coupe
+Ford,Focus,29_14,2000,Hatchback
+Renault,Kangoo,75_9,2007,MPV
+Citroen,C3,18_8,2013,Hatchback
+Peugeot,308,69_18,2017,Hatchback
+Mitsubishi,ASX,62_1,2015,SUV
+Citroen,C4 Cactus,18_13,2015,Hatchback
+Nissan,Elgrand,64_8,2006,MPV
+Mazda,Mazda2,57_10,2009,Hatchback
+Ford,Focus C-Max,29_15,2006,MPV
+Perodua,Kelisa,68_1,2003,Hatchback
+Citroen,C3,18_8,2010,Hatchback
+Mercedes-Benz,SLS,59_34,2013,Convertible
+Volvo,XC70,96_17,2015,Estate
+Toyota,Hilux,92_19,2013,nan
+Mercedes-Benz,X Class,59_40,2017,Pickup
+Toyota,Voxy,92_42,2003,MPV
+Dacia,Sandero,22_3,2013,Hatchback
+Kia,Sedona,43_10,2009,MPV
+Volkswagen,Campervan,95_10,2012,nan
+Hyundai,Matrix,36_18,2007,Hatchback
+Mitsubishi,Mirage,62_15,2016,Hatchback
+MINI,Convertible,54_3,2007,Convertible
+Chrysler,300C,17_1,2006,Estate
+Volkswagen,Caddy Maxi Life,95_8,2008,MPV
+Nissan,Qashqai+2,64_34,2010,SUV
+Nissan,GT-R,64_13,2017,Coupe
+SKODA,Yeti,80_10,2009,SUV
+Lexus,RX 350,48_24,2009,SUV
+Volkswagen,Caddy,95_5,2017,nan
+Saab,9-5,81_3,2008,Saloon
+Alfa Romeo,159,4_4,2009,Saloon
+Renault,Captur,75_1,2015,SUV
+Jaguar,XF,39_7,2017,Saloon
+Jaguar,S-Type,39_4,2007,Saloon
+Volkswagen,Arteon,95_2,2017,Hatchback
+Kia,Soul,43_12,2012,Hatchback
+Honda,NSX,34_13,2017,Coupe
+Great Wall,Steed,32_1,2013,Pickup
+McLaren,540C,58_2,2016,Coupe
+Subaru,XV,86_11,2014,SUV
+Ford,Fiesta,29_13,2010,Hatchback
+Vauxhall,Mokka,94_15,2014,Hatchback
+BMW,7 Series,8_14,2015,Saloon
+Volkswagen,California,95_9,2012,nan
+Land Rover,Discovery 4,47_9,2013,SUV
+Peugeot,5008,69_25,2013,MPV
+Kia,Rio,43_9,2017,Hatchback
+Subaru,Impreza,86_3,2003,Hatchback
+Toyota,RAV4,92_34,2014,SUV
+Volvo,C70,96_2,2007,Convertible
+Toyota,Yaris,92_44,2009,Hatchback
+Nissan,Qashqai,64_33,2007,SUV
+Volvo,V40,96_7,2003,Hatchback
+Abarth,595,2_4,2013,Hatchback
+Kia,Sportage,43_13,2015,SUV
+Citroen,Berlingo,18_2,2008,MPV
+Ford,C-Max,29_2,2014,MPV
+Jaguar,F-Type,39_3,2014,Convertible
+Vauxhall,Meriva,94_14,2006,MPV
+Honda,CR-V,34_3,2010,SUV
+Nissan,Juke,64_14,2010,SUV
+Audi,TT RS,7_47,2011,Coupe
+Mercedes-Benz,CLC Class,59_17,2009,Coupe
+Audi,A6 Allroad,7_11,2016,Estate
+Mercedes-Benz,GLE Class,59_25,2016,SUV
+Vauxhall,Agila,94_2,2013,Hatchback
+Audi,A4 Cabriolet,7_8,2003,Convertible
+Volkswagen,Passat,95_20,2012,Estate
+Ford,C-Max,29_2,2017,MPV
+Ferrari,599,27_10,2006,Coupe
+Chrysler,Sebring,17_8,2008,Convertible
+Mercedes-Benz,A Class,59_8,2006,Hatchback
+DS,5,21_5,2015,Hatchback
+Vauxhall,Mokka X,94_16,2016,SUV
+Renault,Zoe,75_22,2015,Hatchback
+McLaren,570S,58_4,2016,Coupe
+Mercedes-Benz,SLK,59_32,2000,Convertible
+Hyundai,i40,36_12,2016,Estate
+MG,GS,53_1,2017,SUV
+Volkswagen,Caddy Maxi,95_7,2010,Panel Van
+Fiat,Bravo,28_10,2011,Hatchback
+Ford,S-Max,29_31,2011,MPV
+Kia,Picanto,43_7,2015,Hatchback
+Chevrolet,Captiva,16_5,2009,SUV
+BMW,X3,8_37,2014,SUV
+MINI,Hatch,54_6,2009,Hatchback
+Land Rover,Defender 90,47_4,2011,SUV
+Land Rover,Range Rover,47_13,2012,SUV
+Dodge,Nitro,26_6,2008,SUV
+Kia,Cee'd,43_2,2016,Estate
+Citroen,Berlingo,18_2,2013,MPV
+Peugeot,Expert,69_31,2017,Panel Van
+Lamborghini,Huracan,45_4,2015,Convertible
+Jaguar,XJ,39_8,2012,Saloon
+Honda,HR-V,34_8,2000,SUV
+Daewoo,Nubira,23_4,2003,Saloon
+Audi,A6 Saloon,7_11,2007,Estate
+Citroen,Berlingo Multispace,18_3,2015,MPV
+BMW,6 Series Gran Coupe,8_12,2017,Coupe
+Citroen,Berlingo Multispace,18_3,2006,MPV
+Vauxhall,Viva,94_23,2015,Hatchback
+MINI,Hatch,54_6,2010,Hatchback
+Ford,Fusion,29_18,2006,Hatchback
+Opel,Insignia,66_2,2009,Hatchback
+Toyota,Prius,92_30,2015,Hatchback
+Renault,Kangoo,75_9,2006,MPV
+Mitsubishi,Colt,62_3,2012,Hatchback
+MG,MG6,53_3,2011,Hatchback
+Audi,TTS,7_48,2016,Coupe
+Mercedes-Benz,B Class,59_11,2010,Hatchback
+Nissan,350 Z,64_1,2008,Convertible
+Volvo,XC70,96_17,2006,Estate
+Ford,Transit Connect,29_36,2015,nan
+Citroen,C3 Picasso,18_10,2015,MPV
+BMW,6 Series Gran Turismo,8_13,2017,Hatchback
+Hyundai,i30,36_10,2009,Hatchback
+SKODA,Yeti,80_10,2011,SUV
+Audi,Q5,7_20,2011,SUV
+Citroen,DS5,21_5,2012,Hatchback
+Kia,Picanto,43_7,2017,Hatchback
+Ford,S-Max,29_31,2012,MPV
+Mercedes-Benz,M Class,59_27,2013,SUV
+Renault,Scenic,75_14,2015,MPV
+Volkswagen,Caddy Maxi,95_7,2014,Panel Van
+Fiat,Panda,28_18,2010,Hatchback
+Jaguar,XJ,39_8,2009,Saloon
+MINI,Coupe,54_5,2012,Coupe
+BMW,X5,8_39,2010,SUV
+Vauxhall,Astra,94_5,2014,Hatchback
+Lexus,GS 300,48_2,2016,Saloon
+Porsche,Boxster,71_6,2010,Convertible
+BMW,X5M,8_40,2017,SUV
+Mercedes-Benz,GLA Class,59_23,2016,SUV
+Bentley,Flying Spur,10_6,2006,Saloon
+SKODA,Superb,80_9,2016,Hatchback
+BMW,1 Series,8_1,2011,Hatchback
+Mercedes-Benz,B Class,59_11,2017,Hatchback
+Toyota,Proace,92_32,2014,Combi Van
+Volkswagen,Tiguan,95_26,2012,SUV
+Nissan,Micra,64_17,2003,Hatchback
+Jeep,Grand Cherokee,40_4,2006,SUV
+Ford,Focus,29_14,2013,Hatchback
+BMW,X5,8_39,2008,SUV
+Jaguar,S-Type,39_4,2000,Saloon
+Ford,Ka,29_23,2010,Hatchback
+Toyota,Alphard,92_2,2017,MPV
+Mazda,Mazda6,57_13,2017,Saloon
+Audi,A5 Cabriolet,7_10,2010,Convertible
+Ferrari,F12berlinetta,27_16,2014,Coupe
+Nissan,Note,64_21,2009,Hatchback
+BMW,M5,8_32,2006,Saloon
+Peugeot,208,69_12,2016,Hatchback
+Volkswagen,Beetle,95_3,2015,Convertible
+Ferrari,California,27_13,2015,Convertible
+Jaguar,XF,39_7,2015,Saloon
+Ford,Freda,29_17,2000,nan
+BMW,X5,8_39,2006,SUV
+Toyota,Prius+,92_31,2014,Estate
+Land Rover,Defender 90,47_4,2003,SUV
+Toyota,Estima,92_14,2012,MPV
+Audi,A4 Avant,7_7,2010,Estate
+Suzuki,Alto,87_1,2013,Hatchback
+Peugeot,508 SW,69_27,2014,Estate
+McLaren,12C,58_1,2011,Coupe
+Volvo,V40,96_7,2016,Hatchback
+Ford,Focus,29_14,2006,Hatchback
+Audi,RS5,7_30,2011,Coupe
+Nissan,Micra,64_17,2009,Hatchback
+Dacia,Duster,22_1,2013,SUV
+Alfa Romeo,MiTo,4_14,2010,Hatchback
+Peugeot,207 CC,69_10,2009,Convertible
+Volkswagen,Golf Plus,95_16,2009,Hatchback
+Peugeot,5008,69_25,2012,MPV
+Toyota,AYGO,92_6,2013,Hatchback
+Audi,A4 Allroad,7_6,2013,Estate
+Honda,Jazz,34_11,2017,Hatchback
+Renault,Koleos,75_10,2009,SUV
+Chevrolet,Spark,16_14,2013,Hatchback
+Ford,C-Max,29_2,2015,MPV
+Nissan,Cubic,64_6,2003,Hatchback
+Mercedes-Benz,Viano,59_38,2006,Estate
+Chrysler,Grand Voyager,17_4,2000,MPV
+Maserati,GranCabrio,55_6,2012,Convertible
+Volvo,XC90,96_18,2013,SUV
+Vauxhall,Zafira Tourer,94_28,2015,MPV
+DS,3,21_1,2014,Hatchback
+Ssangyong,Tivoli,85_7,2017,Hatchback
+Dacia,Logan MCV,22_2,2014,Estate
+Toyota,Yaris,92_44,2016,Hatchback
+Kia,Cee'd,43_2,2010,Estate
+Infiniti,Q70,37_8,2017,Saloon
+Kia,Rio,43_9,2014,Hatchback
+Saab,9-3,81_1,2003,Convertible
+Volkswagen,Transporter Sportline,95_32,2015,Combi Van
+Suzuki,Ignis,87_5,2007,Hatchback
+Audi,A8,7_16,2011,Saloon
+Chrysler,Ypsilon,17_10,2014,Hatchback
+Ford,Puma,29_29,2000,Coupe
+Vauxhall,Ampera,94_3,2012,Hatchback
+Toyota,Prius+,92_31,2012,Estate
+Peugeot,508,69_26,2016,Saloon
+Hyundai,Tucson,36_24,2016,SUV
+Ford,Fiesta,29_13,2013,Hatchback
+Mazda,Mazda6,57_13,2006,Saloon
+Mercedes-Benz,CLK,59_18,2006,Convertible
+Ford,B-Max,29_1,2015,MPV
+Vauxhall,Insignia,94_13,2014,Hatchback
+Alfa Romeo,159,4_4,2008,Saloon
+Volkswagen,Touran,95_29,2012,MPV
+Mercedes-Benz,Citan Traveliner,59_14,2014,MPV
+Volvo,XC60,96_16,2009,SUV
+Kia,Sportage,43_13,2014,SUV
+Audi,S3,7_35,2017,Hatchback
+Suzuki,Alto,87_1,2011,Hatchback
+Peugeot,5008,69_25,2014,MPV
+Hyundai,Matrix,36_18,2006,Hatchback
+Volkswagen,Caravelle,95_11,2006,MPV
+Peugeot,107,69_3,2006,Hatchback
+Volkswagen,Amarok,95_1,2013,Hatchback
+Hyundai,i30,36_10,2008,Hatchback
+Peugeot,2008,69_5,2016,SUV
+MINI,Roadster,54_8,2014,Convertible
+BMW,1 Series,8_1,2009,Hatchback
+SKODA,Citigo,80_1,2015,Hatchback
+Renault,Twingo,75_18,2007,Hatchback
+BMW,2 Series,8_2,2017,Coupe
+Chevrolet,Cruze,16_7,2012,Hatchback
+Ford,Ka,29_23,2015,Hatchback
+Fiat,Qubo,28_21,2012,MPV
+Citroen,C3 Picasso,18_10,2017,MPV
+SEAT,Ibiza,79_9,2011,Hatchback
+SEAT,Altea,79_2,2012,MPV
+Alfa Romeo,Giulietta,4_11,2010,Hatchback
+Citroen,Saxo,18_26,2003,Hatchback
+Vauxhall,Agila,94_2,2000,Hatchback
+Ford,S-Max,29_31,2006,MPV
+Hyundai,i40,36_12,2012,Estate
+Honda,Jazz,34_11,2015,Hatchback
+Jeep,Cherokee,40_1,2007,SUV
+SEAT,Toledo,79_12,2017,Hatchback
+Mitsubishi,Lancer,62_14,2009,Saloon
+BMW,5 Series,8_9,2011,Saloon
+Alfa Romeo,159,4_4,2007,Saloon
+Ssangyong,Kyron,85_3,2011,SUV
+Kia,Cerato,43_3,2006,Hatchback
+Mitsubishi,L200,62_13,2014,Pickup
+Renault,Clio,75_2,2013,Hatchback
+Toyota,Yaris,92_44,2000,Hatchback
+Toyota,AYGO,92_6,2007,Hatchback
+Audi,A6 Avant,7_11,2015,Estate
+Smart,Roadster,84_3,2003,Convertible
+Toyota,AYGO,92_6,2015,Hatchback
+Kia,Cee'd,43_2,2014,Estate
+Volkswagen,Touareg,95_28,2015,SUV
+Vauxhall,Grandland X,94_12,2017,SUV
+Citroen,C3,18_8,2014,Hatchback
+Volvo,S60,96_4,2017,Saloon
+Vauxhall,Corsa,94_9,2015,Hatchback
+Renault,Grand Espace,75_5,2006,MPV
+Suzuki,Alto,87_1,2010,Hatchback
+Mitsubishi,Colt,62_3,2013,Hatchback
+Opel,Astra,66_1,2003,Hatchback
+Volkswagen,Jetta,95_18,2009,Saloon
+Renault,Clio,75_2,2006,Hatchback
+Volvo,V50,96_9,2009,Estate
+Volkswagen,Golf,95_15,2014,Hatchback
+Porsche,Panamera,71_11,2013,Hatchback
+Mazda,Mazda6,57_13,2016,Saloon
+Perodua,Myvi,68_2,2006,Hatchback
+Audi,A4,7_5,2009,Saloon
+Kia,Cee'd,43_2,2007,Estate
+SKODA,Rapid Spaceback,80_7,2013,Hatchback
+Jeep,Grand Cherokee,40_4,2015,SUV
+Mitsubishi,Outlander,62_16,2003,SUV
+Hyundai,S-Coupe,36_19,2006,Coupe
+MINI,Roadster,54_8,2013,Convertible
+Citroen,DS4,21_3,2013,Hatchback
+Mercedes-Benz,C Class,59_12,2016,Estate
+Mercedes-Benz,Citan Traveliner,59_14,2013,MPV
+Porsche,911,71_4,2012,Coupe
+Ford,S-Max,29_31,2010,MPV
+Peugeot,207 SW,69_11,2007,Estate
+Fiat,500,28_2,2007,Hatchback
+Kia,Rio,43_9,2012,Hatchback
+Saab,9-3,81_1,2008,Convertible
+BMW,Alpina D5 Bi-Turbo,8_23,2012,Saloon
+Jeep,Compass,40_3,2014,SUV
+Suzuki,Splash,87_9,2009,Hatchback
+Porsche,Panamera,71_11,2016,Hatchback
+Mercedes-Benz,350,59_6,2003,Convertible
+Kia,Picanto,43_7,2011,Hatchback
+Mercedes-Benz,S Class,59_29,2017,Saloon
+Toyota,Alphard,92_2,2008,MPV
+Isuzu,Rodeo,38_3,2008,Pickup
+Vauxhall,Antara,94_4,2009,Estate
+Mercedes-Benz,C Class,59_12,2017,Estate
+Volkswagen,Passat,95_20,2010,Estate
+Toyota,Prius+,92_31,2016,Estate
+Nissan,Note,64_21,2008,Hatchback
+BMW,5 Series Gran Turismo,8_10,2010,Hatchback
+Toyota,Corolla Verso,92_12,2009,MPV
+SKODA,Octavia,80_5,2003,Hatchback
+Toyota,MR2,92_25,2000,Convertible
+Nissan,Micra,64_17,2016,Hatchback
+Mitsubishi,Shogun,62_18,2000,SUV
+Jeep,Cherokee,40_1,2015,SUV
+Mercedes-Benz,CLS,59_19,2017,Coupe
+Audi,A4 Allroad,7_6,2015,Estate
+Land Rover,Range Rover Sport,47_15,2006,SUV
+McLaren,650S,58_5,2015,Convertible
+Audi,TT,7_46,2007,Coupe
+Renault,Twingo,75_18,2016,Hatchback
+Chrysler,Crossfire,17_2,2003,Convertible
+Peugeot,308 SW,69_20,2016,Estate
+SEAT,Altea,79_2,2011,MPV
+Mercedes-Benz,GLS Class,59_26,2017,SUV
+Suzuki,Splash,87_9,2012,Hatchback
+Mitsubishi,Colt,62_3,2011,Hatchback
+BMW,Alpina D3 Bi-Turbo,8_21,2011,Saloon
+Mitsubishi,Delica,62_6,2007,MPV
+Audi,A6 Unspecified,7_11,2013,Estate
+Audi,Q7,7_21,2006,SUV
+Mazda,Mazda5,57_12,2015,MPV
+Hyundai,i20,36_9,2017,Hatchback
+Hyundai,Kona,36_17,2017,SUV
+Audi,A6 Avant,7_11,2000,Estate
+Land Rover,Discovery Sport,47_10,2015,SUV
+Audi,A3,8_39,2008,SUV
+Nissan,370 Z,64_2,2009,Convertible
+Daihatsu,Terios,24_8,2006,SUV
+Hyundai,Amica,36_2,2006,Hatchback
+Citroen,C4,18_12,2010,Hatchback
+Toyota,Prius,92_30,2012,Hatchback
+Ford,B-Max,29_1,2012,MPV
+BMW,X5,8_39,2018,SUV
+Nissan,Note,64_21,2007,Hatchback
+Hyundai,i10,36_8,2016,Hatchback
+SKODA,Citigo,80_1,2014,Hatchback
+Audi,A4 Allroad,7_6,2016,Estate
+Toyota,Prius,92_30,2009,Hatchback
+Ford,Edge,29_5,2016,SUV
+Hyundai,i20,36_9,2009,Hatchback
+Ford,Ka,29_23,2012,Hatchback
+Jeep,Compass,40_3,2011,SUV
+SEAT,Leon,79_10,2007,Hatchback
+Ferrari,F12berlinetta,27_16,2013,Coupe
+Audi,A1,7_1,2012,Hatchback
+Honda,Civic,34_2,2013,Hatchback
+Toyota,Yaris,92_44,2010,Hatchback
+Mazda,BT-50,57_5,2007,Pickup
+Mazda,323,57_1,2003,Hatchback
+Nissan,Elgrand,64_8,2008,MPV
+Rolls-Royce,Phantom,77_4,2003,Limousine
+Citroen,DS4,21_3,2015,Hatchback
+Mazda,CX-5,57_7,2012,SUV
+BMW,X3,8_37,2016,SUV
+Volvo,C30,96_1,2007,Coupe
+Mercedes-Benz,CLK,59_18,2007,Convertible
+Toyota,Hilux,92_19,2014,nan
+Peugeot,107,69_3,2013,Hatchback
+Audi,Q5,7_20,2009,SUV
+Nissan,Micra C+C,64_18,2006,Convertible
+Audi,S4,7_36,2012,Saloon
+Fiat,Sedici,28_23,2006,Hatchback
+Peugeot,208,69_12,2012,Hatchback
+Rolls-Royce,Phantom,77_4,2010,Limousine
+Volvo,S40,96_3,2012,Saloon
+Hyundai,ix35,36_16,2014,SUV
+BMW,5 Series Gran Turismo,8_10,2012,Hatchback
+Ford,Focus,29_14,2014,Hatchback
+Suzuki,Splash,87_9,2008,Hatchback
+Peugeot,2008,69_5,2014,SUV
+Bentley,Mulsanne,10_7,2015,Saloon
+Honda,CR-Z,34_4,2011,Coupe
+Nissan,Leaf,64_16,2017,Hatchback
+Jeep,Cherokee,40_1,2016,SUV
+Audi,Q3,7_19,2012,SUV
+Mercedes-Benz,CLS,59_19,2015,Coupe
+Volkswagen,CC,95_12,2013,Saloon
+Mazda,CX-5,57_7,2015,SUV
+Volvo,V40 Cross Country,96_8,2016,Hatchback
+Volkswagen,Beetle,95_3,2014,Convertible
+Citroen,C3 Aircross,18_9,2017,SUV
+Porsche,718 Cayman,71_3,2016,Coupe
+Audi,S6 Avant,7_40,2006,Estate
+Hyundai,Santa Fe,36_20,2003,SUV
+Peugeot,308,69_18,2008,Hatchback
+Volkswagen,up!,95_33,2013,Hatchback
+Jeep,Patriot,40_5,2007,SUV
+Hyundai,S-Coupe,36_19,2007,Coupe
+Mazda,Premacy,57_17,2000,MPV
+Mazda,Mazda5,57_12,2008,MPV
+Corvette,C7,19_2,2017,Convertible
+Citroen,C4 Picasso,18_14,2007,MPV
+Peugeot,308,69_18,2013,Hatchback
+Porsche,Panamera,71_11,2015,Hatchback
+SKODA,Fabia,80_2,2011,Hatchback
+Volvo,V60 Cross Country,96_11,2015,Estate
+Peugeot,3008,69_13,2012,SUV
+Audi,A3 Cabriolet,7_4,2017,Convertible
+Audi,Q7,7_21,2007,SUV
+Infiniti,FX,37_2,2011,SUV
+Chevrolet,Tacuma,16_16,2006,MPV
+Chrysler,PT Cruiser,17_7,2006,Hatchback
+Renault,Megane,75_12,2010,Hatchback
+Audi,Q5,7_20,2010,SUV
+BMW,1 Series,8_1,2012,Hatchback
+Lamborghini,Gallardo,45_3,2009,Coupe
+SKODA,Rapid,80_6,2016,Hatchback
+Ford,Focus,29_14,2016,Hatchback
+Saab,9-5,81_3,2011,Saloon
+Noble,M12,65_1,2003,Coupe
+Mazda,Mazda3,57_11,2013,Hatchback
+Great Wall,Steed,32_1,2015,Pickup
+Fiat,Doblo,28_12,2016,Estate
+Nissan,Pulsar,64_32,2016,Hatchback
+Audi,TT RS,7_47,2009,Coupe
+Toyota,Yaris Verso,92_45,2000,Hatchback
+Fiat,500X,28_5,2015,SUV
+Ford,Fusion,29_18,2008,Hatchback
+Audi,A4 Avant,7_7,2009,Estate
+MINI,Coupe,54_5,2013,Coupe
+Hyundai,Ioniq,36_14,2017,Hatchback
+Vauxhall,Vectra,94_22,2008,Hatchback
+Ford,C-Max,29_2,2016,MPV
+Toyota,Prius,92_30,2017,Hatchback
+BMW,6 Series,8_11,2011,Convertible
+Lexus,RX 450h,48_24,2012,SUV
+MINI,Unspecified,54_11,2003,Saloon
+Toyota,Land Cruiser,92_21,2017,SUV
+Ford,Grand Tourneo Connect,29_21,2014,MPV
+Ford,Mondeo,29_27,2010,Hatchback
