@@ -1,2 +1,2 @@
-# CNN-Model-Car-Classification
+# Car modernity classification
 Transfer learning with Convolutional Neural Networks
